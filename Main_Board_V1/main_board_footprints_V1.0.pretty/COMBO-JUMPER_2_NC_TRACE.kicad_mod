@@ -1,0 +1,70 @@
+(footprint "COMBO-JUMPER_2_NC_TRACE" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "MOSAIC Main Board.kicad_sch")
+  (property "Sheetname" "")
+  (fp_text reference "REF**" (at -0.01 -1.98) (layer "F.SilkS")
+      (effects (font (size 0.6 0.6) (thickness 0.15) bold) (justify bottom))
+    (tstamp bb2128e7-e2a3-4184-9fbc-eb8839f0efda)
+  )
+  (fp_text value "~" (at 0 1.143) (layer "F.Fab")
+      (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify top))
+    (tstamp 9a1b2c9d-089b-425c-8be6-1f6483275998)
+  )
+  (fp_poly
+    (pts
+      (xy 0.03175 0.28575)
+      (xy -0.70485 0.28575)
+      (xy -0.70485 -0.28575)
+      (xy 0.03175 -0.28575)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Cu") (tstamp 6f62a942-69cf-416c-9aeb-8f8b94a1b178))
+  (fp_poly
+    (pts
+      (xy 0.70485 0.28575)
+      (xy -0.03175 0.28575)
+      (xy -0.03175 -0.28575)
+      (xy 0.70485 -0.28575)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Cu") (tstamp e9be25f1-507b-45a7-809e-2016eca538c6))
+  (fp_line (start 0.508 -0.889) (end -0.508 -0.889)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp 5ac72e52-cd48-4a06-8451-3793afb3c533))
+  (fp_line (start 0.508 0.889) (end -0.508 0.889)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp cbb7f237-5011-4508-9b0c-a7fafa6d576a))
+  (fp_poly
+    (pts
+      (xy 0.254 0.7239)
+      (xy -0.254 0.7239)
+      (xy -0.254 -0.7239)
+      (xy 0.254 -0.7239)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Mask") (tstamp b668372e-aa1f-4ddf-80a9-dc97598446ba))
+  (fp_poly
+    (pts
+      (xy -1.524 0.254)
+      (xy -1.016 0.254)
+      (xy -1.016 -0.254)
+      (xy -1.524 -0.254)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 82c2a2c0-b6f7-48ca-b21c-5cfc0e437852))
+  (fp_poly
+    (pts
+      (xy 1.016 0.254)
+      (xy 1.524 0.254)
+      (xy 1.524 -0.254)
+      (xy 1.016 -0.254)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 3480e2c5-129a-4c08-ae3a-b1803adfa384))
+  (pad "1" smd roundrect (at -0.508 0) (size 0.635 1.27) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.08)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 56403fd9-f74b-4a76-b796-9a4aaa43dec7))
+  (pad "2" smd roundrect (at 0.508 0) (size 0.635 1.27) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.08)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 7093ad6d-7b15-4c26-958e-bdc34f1bdd38))
+  (pad "3" thru_hole circle (at -1.27 0 90) (size 1.8796 1.8796) (drill 1.016) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 42f967cb-ad96-49c0-ae5b-0eeaab9bcd78))
+  (pad "4" thru_hole circle (at 1.27 0 90) (size 1.8796 1.8796) (drill 1.016) (layers "*.Cu" "*.Mask")
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp bb99ffe9-c25d-4c80-9b8a-6af3182fe801))
+)

@@ -1,0 +1,94 @@
+(footprint "SOT-23-6" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (property "Sheetfile" "MOSAIC Main Board.kicad_sch")
+  (property "Sheetname" "")
+  (property "Source" "https://www.digikey.com/en/products/detail/diodes-incorporated/D5V0P4URL6SO-7/6052566")
+  (fp_text reference "REF**" (at -1.905 0 90) (layer "F.SilkS")
+      (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify bottom))
+    (tstamp eb996646-0122-4588-ac2c-292b845e0347)
+  )
+  (fp_text value "TVS DIODE 3.3VWM 6VC SOT26" (at 2.54 0 90) (layer "F.Fab")
+      (effects (font (size 0.48768 0.48768) (thickness 0.12192)) (justify bottom))
+    (tstamp c77a6f31-d1e4-434c-8d58-7a48239d333f)
+  )
+  (fp_line (start -1.4224 0.4294) (end -1.4224 -0.4294)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp cdc4b694-a103-4a7d-9851-52b601721326))
+  (fp_line (start 1.4224 -0.4294) (end 1.4224 0.4294)
+    (stroke (width 0.2032) (type solid)) (layer "F.SilkS") (tstamp 5b4a415d-7a8d-4c41-86b5-f71ba3b42e5d))
+  (fp_circle (center -1.65 1) (end -1.5064 1)
+    (stroke (width 0.2032) (type solid)) (fill none) (layer "F.SilkS") (tstamp 1fb5f126-538c-4f50-85f3-bde554bcd8ac))
+  (fp_line (start -1.4 -0.8) (end -1.4 0.8)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp c37ee54d-f06e-46e9-9b58-d6ead26943aa))
+  (fp_line (start -1.4 -0.8) (end 1.4 -0.8)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 0a2ff0ab-d4f0-46dd-8b1d-7eda072bf6b0))
+  (fp_line (start 1.4 -0.8) (end 1.4 0.8)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp 39b87a41-35a3-49d1-ae40-2f0211c93de2))
+  (fp_line (start 1.4 0.8) (end -1.4 0.8)
+    (stroke (width 0.1524) (type solid)) (layer "F.Fab") (tstamp d664cfb3-a573-4b47-aa74-ab038469ec36))
+  (fp_poly
+    (pts
+      (xy -1.2 -0.85)
+      (xy -0.7 -0.85)
+      (xy -0.7 -1.5)
+      (xy -1.2 -1.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp f44a56e8-3273-4f3d-938a-0b933547938f))
+  (fp_poly
+    (pts
+      (xy -1.2 1.5)
+      (xy -0.7 1.5)
+      (xy -0.7 0.85)
+      (xy -1.2 0.85)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 70f4fbc4-556e-4d2e-9283-ec2f1b2a009c))
+  (fp_poly
+    (pts
+      (xy -0.25 -0.85)
+      (xy 0.25 -0.85)
+      (xy 0.25 -1.5)
+      (xy -0.25 -1.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp c9c7d64c-6bc7-4bd6-b2c8-06b3846a418b))
+  (fp_poly
+    (pts
+      (xy -0.25 1.5)
+      (xy 0.25 1.5)
+      (xy 0.25 0.85)
+      (xy -0.25 0.85)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 18942063-2ebf-4071-ab97-bd068e1cc865))
+  (fp_poly
+    (pts
+      (xy 0.7 -0.85)
+      (xy 1.2 -0.85)
+      (xy 1.2 -1.5)
+      (xy 0.7 -1.5)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 3dea0503-1880-4446-9b10-d71e54057dc6))
+  (fp_poly
+    (pts
+      (xy 0.7 1.5)
+      (xy 1.2 1.5)
+      (xy 1.2 0.85)
+      (xy 0.7 0.85)
+    )
+
+    (stroke (width 0) (type default)) (fill solid) (layer "F.Fab") (tstamp 61ef64b0-0a20-4063-bb94-48d99c3c89fc))
+  (pad "1" smd roundrect (at -0.95 1.3751) (size 0.55 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09236363636)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 348707f3-4817-4caa-a455-3b6954a7debd))
+  (pad "2" smd roundrect (at 0 1.3751) (size 0.55 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09236363636)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 3c743f0d-b07b-4148-8d22-41b8a8357427))
+  (pad "3" smd roundrect (at 0.95 1.3751) (size 0.55 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09236363636)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp e979632e-da5b-4cdf-968d-578ce5375dcf))
+  (pad "4" smd roundrect (at 0.95 -1.3751) (size 0.55 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09236363636)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 82788e03-e8f5-411b-84cc-9bcc95189692))
+  (pad "5" smd roundrect (at 0 -1.3751) (size 0.55 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09236363636)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp bce90a07-7520-4f5d-985c-8dd88264cc7c))
+  (pad "6" smd roundrect (at -0.95 -1.3751) (size 0.55 1.35) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.09236363636)
+    (solder_mask_margin 0.0635) (thermal_bridge_angle 0) (tstamp 6691e7bd-9c29-43b9-ad01-0e67a37c66f4))
+)
