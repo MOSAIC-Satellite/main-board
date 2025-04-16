@@ -4,7 +4,7 @@
 	(generator_version "9.0")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
-		(at 0 -0.5 0)
+		(at 0 -4.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
 		(uuid "e36cc575-fdb2-45b6-9ea4-c5650a3c7ded")
@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "MountingHole_3.2mm_Pad_Oval"
-		(at 0 1 0)
+		(at 0 5.5 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "cce8e47e-549a-4f9f-9491-698cfb683faa")
@@ -55,7 +55,7 @@
 	)
 	(attr exclude_from_pos_files exclude_from_bom)
 	(fp_text user "${REFERENCE}"
-		(at 0 2.5 0)
+		(at 0 8 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "54c66633-c554-4a5c-b707-7db10d2de4fa")
@@ -67,8 +67,8 @@
 		)
 	)
 	(pad "1" thru_hole oval
-		(at 0 -5)
-		(size 12.8 6.400013)
+		(at 0 0)
+		(size 10.16 6.400013)
 		(drill oval 6.400013 3.199994)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
