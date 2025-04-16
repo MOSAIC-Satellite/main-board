@@ -6,8 +6,8 @@
 	(paper "User" 470.002 319.989)
 	(title_block
 		(title "MOSAIC Main Board")
-		(date "2024-05-23")
-		(rev "1.0")
+		(date "2025-04-16")
+		(rev "2.0")
 		(company "Texas State Space Lab")
 	)
 	(lib_symbols
