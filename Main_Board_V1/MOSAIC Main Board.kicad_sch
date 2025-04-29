@@ -66281,7 +66281,7 @@
 				)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNE/3886754"
+		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOCLRNC/3888057"
 			(at 344.678 69.088 0)
 			(effects
 				(font
@@ -68149,6 +68149,15 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "Source" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAM21BR71H104JT?qs=Jm2GQyTW%2Fbic6Zk4McEt6w%3D%3D"
+			(at 352.298 69.088 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -70180,7 +70189,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547532")
+			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547533")
 		)
 		(instances
 			(project ""
@@ -70329,7 +70338,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547532")
+			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547534")
 		)
 		(instances
 			(project ""
@@ -72080,7 +72089,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547532")
+			(uuid "4129d42b-45bf-4fd3-b057-d1cd17547535")
 		)
 		(instances
 			(project ""
