@@ -75230,7 +75230,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:SWITCH_SPST_SMD_A"
+		(property "Footprint" "main_board_footprints_V1.0:SWITCH_SPST_SMD_A"
 			(at 169.418 107.188 0)
 			(effects
 				(font
