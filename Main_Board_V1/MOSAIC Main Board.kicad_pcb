@@ -430,7 +430,7 @@
 				)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERJ-3EKF2001V/196183"
+		(property "Source" "https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-2001ELF/3740910"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -7399,7 +7399,7 @@
 				)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
+		(property "Source" "https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-1002ELF/3593188"
 			(at 81.025 254.975 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -13764,6 +13764,19 @@
 				)
 			)
 		)
+		(property "Source" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAM21BR71H104JT?qs=Jm2GQyTW%2Fbic6Zk4McEt6w%3D%3D"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "2dbe2a6e-9bc3-44ee-8c6f-70b46d819ab1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/5f9eb4c3-a872-4888-bb81-6d24a8b9919c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -14469,7 +14482,7 @@
 				)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/diodes-incorporated/D5V0P4URL6SO-7/6052566"
+		(property "Source" "https://www.mouser.com/ProductDetail/Diodes-Incorporated/D5V0P4URL6SO-7?qs=rN85NNvew%2FTFk6tlkCQ5yQ%3D%3D"
 			(at 266.450206 -81.890196 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -15230,7 +15243,7 @@
 				)
 			)
 		)
-		(property "Source" "https://www.sparkfun.com/products/11641"
+		(property "Source" "https://www.mouser.com/ProductDetail/Adafruit/1769?qs=GURawfaeGuBbgoGtf2XstA%3D%3D"
 			(at 59.71 302.65 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23004,7 +23017,7 @@
 				)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOQNNNE/3886754"
+		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOCLRNC/3888057"
 			(at 45.50855 258.88855 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -23377,7 +23390,7 @@
 				)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/switchcraft-inc/35RAPC4BH3/1288781"
+		(property "Source" "https://www.mouser.com/ProductDetail/Switchcraft/35RAPC4BH3?qs=I3kMT7EEIOWFGyk5rynRAQ%3D%3D"
 			(at 351.38 264.4 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -34021,7 +34034,7 @@
 		(layer "User.4")
 		(uuid "23835408-0ef8-49bb-8b6b-ded68e75bfc8")
 		(pts
-			(xy 178.5 50) (xy 171 57.5)
+			(xy 178.5 50) (xy 178.5 65)
 		)
 		(height 8.5)
 		(orientation 1)
@@ -34041,8 +34054,8 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "7.5000 mm"
-			(at 185.85 53.75 90)
+		(gr_text "15.0000 mm"
+			(at 185.85 57.5 90)
 			(layer "User.4")
 			(uuid "23835408-0ef8-49bb-8b6b-ded68e75bfc8")
 			(effects
@@ -34056,12 +34069,12 @@
 	(dimension
 		(type orthogonal)
 		(layer "User.4")
-		(uuid "4857d52d-0374-4f7a-a0a2-b46b2712ce73")
+		(uuid "367b848c-8fc1-495e-9437-0f16d3d8e484")
 		(pts
-			(xy 88.5 50) (xy 96 57.5)
+			(xy 175.5 140) (xy 172 132.5)
 		)
-		(height -4.5)
-		(orientation 0)
+		(height 7.5)
+		(orientation 1)
 		(format
 			(prefix "")
 			(suffix "")
@@ -34079,9 +34092,9 @@
 			(keep_text_aligned yes)
 		)
 		(gr_text "7.5000 mm"
-			(at 92.25 44.35 0)
+			(at 181.85 136.25 90)
 			(layer "User.4")
-			(uuid "4857d52d-0374-4f7a-a0a2-b46b2712ce73")
+			(uuid "367b848c-8fc1-495e-9437-0f16d3d8e484")
 			(effects
 				(font
 					(size 1 1)
@@ -34095,7 +34108,7 @@
 		(layer "User.4")
 		(uuid "5172c3f5-de7b-46bf-98c4-ba0fca683f2e")
 		(pts
-			(xy 178.5 50) (xy 171 57.5)
+			(xy 178.5 50) (xy 171 50)
 		)
 		(height -7)
 		(orientation 0)
@@ -34130,120 +34143,9 @@
 	(dimension
 		(type orthogonal)
 		(layer "User.4")
-		(uuid "53c3d2e6-9089-43de-bebd-fd5b165e7ab9")
-		(pts
-			(xy 88.5 140) (xy 96 132.5)
-		)
-		(height 5)
-		(orientation 0)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "7.5000 mm"
-			(at 92.25 143.85 0)
-			(layer "User.4")
-			(uuid "53c3d2e6-9089-43de-bebd-fd5b165e7ab9")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "User.4")
-		(uuid "66c14dfa-7973-4f5f-9e0e-9f09b6ee22db")
-		(pts
-			(xy 88.5 50) (xy 96 57.5)
-		)
-		(height -10.5)
-		(orientation 1)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.15)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "7.5000 mm"
-			(at 76.85 53.75 90)
-			(layer "User.4")
-			(uuid "66c14dfa-7973-4f5f-9e0e-9f09b6ee22db")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "User.4")
-		(uuid "710cffb5-d020-4955-8699-64eb9057ab32")
-		(pts
-			(xy 88.5 140) (xy 96 132.5)
-		)
-		(height -6)
-		(orientation 1)
-		(format
-			(prefix "")
-			(suffix "")
-			(units 3)
-			(units_format 1)
-			(precision 4)
-		)
-		(style
-			(thickness 0.1)
-			(arrow_length 1.27)
-			(text_position_mode 0)
-			(arrow_direction outward)
-			(extension_height 0.58642)
-			(extension_offset 0.5)
-			(keep_text_aligned yes)
-		)
-		(gr_text "7.5000 mm"
-			(at 81.35 136.25 90)
-			(layer "User.4")
-			(uuid "710cffb5-d020-4955-8699-64eb9057ab32")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-	)
-	(dimension
-		(type orthogonal)
-		(layer "User.4")
 		(uuid "9ea0867e-e59a-4cad-b539-1364b4e7ee0b")
 		(pts
-			(xy 178.5 140) (xy 171 132.5)
+			(xy 178.5 140) (xy 173 125)
 		)
 		(height 7.5)
 		(orientation 1)
@@ -34263,8 +34165,8 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "7.5000 mm"
-			(at 184.85 136.25 90)
+		(gr_text "15.0000 mm"
+			(at 184.85 132.5 90)
 			(layer "User.4")
 			(uuid "9ea0867e-e59a-4cad-b539-1364b4e7ee0b")
 			(effects
@@ -34304,6 +34206,43 @@
 			(at 174.75 146.85 0)
 			(layer "User.4")
 			(uuid "d8cdf45e-593e-49f6-bd13-f66934251186")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+	)
+	(dimension
+		(type orthogonal)
+		(layer "User.4")
+		(uuid "de844c91-9856-4f13-880a-4c38f45b7ccb")
+		(pts
+			(xy 178.5 50) (xy 178.5 57.5)
+		)
+		(height 4.5)
+		(orientation 1)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(arrow_direction outward)
+			(extension_height 0.58642)
+			(extension_offset 0.5)
+			(keep_text_aligned yes)
+		)
+		(gr_text "7.5000 mm"
+			(at 181.85 53.75 90)
+			(layer "User.4")
+			(uuid "de844c91-9856-4f13-880a-4c38f45b7ccb")
 			(effects
 				(font
 					(size 1 1)
