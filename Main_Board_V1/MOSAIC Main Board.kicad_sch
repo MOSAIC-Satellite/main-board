@@ -58974,7 +58974,7 @@
 	)
 	(wire
 		(pts
-			(xy 271.018 155.448) (xy 268.478 155.448)
+			(xy 270.9406 154.5376) (xy 268.4006 154.5376)
 		)
 		(stroke
 			(width 0.1524)
@@ -60051,6 +60051,16 @@
 			(type solid)
 		)
 		(uuid "bcd90d77-7ae8-4792-9d78-d64048dcea50")
+	)
+	(wire
+		(pts
+			(xy 268.4646 160.5027) (xy 271.0046 160.5027)
+		)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(uuid "bd31ff4c-611d-439e-965e-9ef01ad76dd7")
 	)
 	(polyline
 		(pts
@@ -62693,7 +62703,7 @@
 		(uuid "e702a23f-1f28-41e6-85f1-d06eaaa34320")
 	)
 	(label "SWDIO"
-		(at 268.478 155.448 180)
+		(at 268.4006 154.5376 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -65932,15 +65942,15 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:TEST-POINT3X5")
-		(at 271.018 155.448 0)
+		(at 270.9406 154.5376 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "40069ff4-ce96-4861-b519-4dfff68ffecf")
-		(property "Reference" "TP4"
-			(at 276.098 155.448 0)
+		(property "Reference" "SWDIO"
+			(at 276.0206 154.5376 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -65950,7 +65960,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 268.478 157.988 0)
+			(at 268.4006 157.0776 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -65960,7 +65970,7 @@
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:PAD.03X.05"
-			(at 271.018 155.448 0)
+			(at 270.9406 154.5376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65969,7 +65979,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 271.018 155.448 0)
+			(at 270.9406 154.5376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65978,7 +65988,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 271.018 155.448 0)
+			(at 270.9406 154.5376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65991,7 +66001,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "TP4")
+					(reference "SWDIO")
 					(unit 1)
 				)
 			)
@@ -67608,7 +67618,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59c48b28-9f47-46de-ae7f-60eed65d10de")
-		(property "Reference" "TP3"
+		(property "Reference" "3.3V"
 			(at 273.558 147.828 0)
 			(effects
 				(font
@@ -67660,7 +67670,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "TP3")
+					(reference "3.3V")
 					(unit 1)
 				)
 			)
@@ -67681,7 +67691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59d1df57-9948-4630-b6a6-b00027eaa7c5")
-		(property "Reference" "TP1"
+		(property "Reference" "V_BATT"
 			(at 273.558 124.968 0)
 			(effects
 				(font
@@ -67733,7 +67743,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "TP1")
+					(reference "V_BATT")
 					(unit 1)
 				)
 			)
@@ -70063,6 +70073,73 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:GND")
+		(at 265.9246 160.5027 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "829205ef-16f3-44c0-8da4-0ae600a08ff2")
+		(property "Reference" "#GND045"
+			(at 265.9246 160.5027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 264.6546 160.5026 90)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.9246 160.5027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 265.9246 160.5027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 265.9246 160.5027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5e09700a-d71b-460d-92b4-50ecc40e8674")
+		)
+		(instances
+			(project ""
+				(path "/52f21295-3640-410f-ad83-534235adfded"
+					(reference "#GND045")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "main_board_symbols_V1.0:GND")
 		(at 367.665 139.7 0)
 		(mirror y)
 		(unit 1)
@@ -71119,7 +71196,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a0d213c5-e7e9-42ee-ad38-943de4546a55")
-		(property "Reference" "TP2"
+		(property "Reference" "VIN"
 			(at 273.558 135.128 0)
 			(effects
 				(font
@@ -71171,7 +71248,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "TP2")
+					(reference "VIN")
 					(unit 1)
 				)
 			)
@@ -75284,6 +75361,73 @@
 			(project "MOSAIC_Main_Board"
 				(path "/ea1eb9ca-2a8a-48ba-aecd-13c3cf165b69"
 					(reference "S1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "main_board_symbols_V1.0:TEST-POINT3X5")
+		(at 271.0046 160.5027 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f31ba77a-2e1d-4f56-9840-10a85e88aaa3")
+		(property "Reference" "SWDIO1"
+			(at 276.0846 160.5027 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Value" "~"
+			(at 268.4646 163.0427 0)
+			(effects
+				(font
+					(size 1.778 1.778)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "main_board_footprints_V1.0:PAD.03X.05"
+			(at 271.0046 160.5027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 271.0046 160.5027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 271.0046 160.5027 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "56d0f019-e4ce-4617-bfb2-77eb569fba02")
+		)
+		(instances
+			(project "MOSAIC Main Board"
+				(path "/52f21295-3640-410f-ad83-534235adfded"
+					(reference "SWDIO1")
 					(unit 1)
 				)
 			)
