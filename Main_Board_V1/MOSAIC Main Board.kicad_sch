@@ -65949,7 +65949,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40069ff4-ce96-4861-b519-4dfff68ffecf")
-		(property "Reference" "SWDIO"
+		(property "Reference" "SWDIO2"
 			(at 276.0206 154.5376 0)
 			(effects
 				(font
@@ -66001,7 +66001,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "SWDIO")
+					(reference "SWDIO2")
 					(unit 1)
 				)
 			)
@@ -67618,7 +67618,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59c48b28-9f47-46de-ae7f-60eed65d10de")
-		(property "Reference" "3.3V"
+		(property "Reference" "3.3V1"
 			(at 273.558 147.828 0)
 			(effects
 				(font
@@ -67670,7 +67670,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "3.3V")
+					(reference "3.3V1")
 					(unit 1)
 				)
 			)
@@ -67691,7 +67691,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "59d1df57-9948-4630-b6a6-b00027eaa7c5")
-		(property "Reference" "V_BATT"
+		(property "Reference" "V_BATT1"
 			(at 273.558 124.968 0)
 			(effects
 				(font
@@ -67743,7 +67743,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "V_BATT")
+					(reference "V_BATT1")
 					(unit 1)
 				)
 			)
@@ -71196,7 +71196,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a0d213c5-e7e9-42ee-ad38-943de4546a55")
-		(property "Reference" "VIN"
+		(property "Reference" "VIN1"
 			(at 273.558 135.128 0)
 			(effects
 				(font
@@ -71248,7 +71248,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "VIN")
+					(reference "VIN1")
 					(unit 1)
 				)
 			)
@@ -75375,7 +75375,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f31ba77a-2e1d-4f56-9840-10a85e88aaa3")
-		(property "Reference" "SWDIO1"
+		(property "Reference" "GND1"
 			(at 276.0846 160.5027 0)
 			(effects
 				(font
@@ -75427,7 +75427,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "SWDIO1")
+					(reference "GND1")
 					(unit 1)
 				)
 			)
