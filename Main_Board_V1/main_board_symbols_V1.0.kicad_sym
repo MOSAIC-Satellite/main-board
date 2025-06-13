@@ -3682,7 +3682,7 @@
 	)
 	(symbol "CONN_01PTH_NO_SILK_YES_STOP"
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(property "Reference" "J"
 			(at -2.54 3.048 0)
@@ -3702,7 +3702,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:1X01_NO_SILK"
+		(property "Footprint" "main_board_footprints_V1.0:1X01_NO_SILK"
 			(at 0 0 0)
 			(effects
 				(font
@@ -3727,14 +3727,6 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(symbol "CONN_01PTH_NO_SILK_YES_STOP_1_0"
@@ -9805,7 +9797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589032502153789440"
 			(at 0 0 0)
 			(effects
 				(font
@@ -9814,7 +9806,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/1613508-MAX4932ETDT/C1522710"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C1522710"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13565,7 +13566,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:TACTILE_SWITCH_SMD_5.2MM"
+		(property "Footprint" "main_board_footprints_V1.0:TACTILE_SWITCH_SMD_5.2MM"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13583,7 +13584,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/11399-4_4_1_7_SurfaceMount/C10852"
 			(at 0 0 0)
 			(effects
 				(font
@@ -13592,12 +13593,13 @@
 				(hide yes)
 			)
 		)
-		(property "ki_locked" ""
+		(property "JLCPCB Part #" "C10852"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(symbol "MOMENTARY-SWITCH-SPST-SMD-5.2-TALL-REDUNDANT_1_0"
