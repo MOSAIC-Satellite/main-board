@@ -11,6 +11,201 @@
 		(company "Texas State Space Lab")
 	)
 	(lib_symbols
+		(symbol "JUMPER-COMBO_2_NC_TRACE_1"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "JP"
+				(at 0 2.794 0)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+				)
+			)
+			(property "Value" ""
+				(at 0 -2.794 0)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+				)
+			)
+			(property "Footprint" "main_board_footprints_V1.0:COMBO-JUMPER_2_NC_TRACE"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "JUMPER-COMBO_2_NC_TRACE_1_1_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -1.651 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 0) (xy 1.016 0)
+					)
+					(stroke
+						(width 0.254)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -0.3808 0.635)
+					(mid 0.2514 -0.0001)
+					(end -0.381 -0.635)
+					(stroke
+						(width 1.27)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 0.381 0.635)
+					(mid 0.83 0.449)
+					(end 1.0159 -0.0001)
+					(stroke
+						(width 1.27)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start 1.016 0)
+					(mid 0.83 -0.449)
+					(end 0.3809 -0.6351)
+					(stroke
+						(width 1.27)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.651 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Mechanical:MountingHole_Pad"
 			(pin_numbers
 				(hide yes)
@@ -1330,7 +1525,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1339,7 +1534,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589784842562416640"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1348,7 +1543,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/parts/componentSearch?searchTxt=RMCF0603FT1K00"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1357,12 +1552,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C2484712"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "1KOHM-0603-1/10W-1%_1_0"
@@ -1535,7 +1731,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1544,7 +1740,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589819829713461248"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1553,7 +1749,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Bourns-CR0603_FX2001ELF/C2076433"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1562,12 +1758,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C2076433"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "2.0KOHM-0603-1/10W-5%_1_0"
@@ -1740,7 +1937,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1749,7 +1946,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588907335158255616"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1758,7 +1955,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Walsin_TechCorp-WR06X2201FTL/C163872"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1767,12 +1964,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C163872"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "2.2KOHM-0603-1/10W-1%_1_0"
@@ -2873,7 +3071,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2882,7 +3080,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590883784890277888"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2891,7 +3089,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/sei_stackpole_elec-RMCF0603FT4K70/C4293273"
 				(at 0 0 0)
 				(effects
 					(font
@@ -2900,12 +3098,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C4293273"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "4.7KOHM-0603-1/10W-1%_1_0"
@@ -3078,7 +3277,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3087,7 +3286,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178155321573376"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3096,7 +3295,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/2057-CL10A475KP8NNNC/C1705"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3105,12 +3304,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C1705"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "4.7UF-0603-35V-(20%)_1_0"
@@ -3221,7 +3421,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3230,7 +3430,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178155321573376"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3239,7 +3439,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/2057-CL10A475KP8NNNC/C1705"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3248,12 +3448,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C1705"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "4.7UF-0603-6.3V-(10%)_1_0"
@@ -3751,7 +3952,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:UDFN-8"
+			(property "Footprint" "main_board_footprints_V1.0:UDFN-8"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3760,7 +3961,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560079564241199104"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3769,7 +3970,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-AP7361C_33FGE7/C151007"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3778,12 +3979,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C151007"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "AP7361C-33FGEUDFN-8_1_0"
@@ -4069,7 +4271,7 @@
 		)
 		(symbol "main_board_symbols_V1.0:CONN_021X02_NO_SILK"
 			(exclude_from_sim no)
-			(in_bom yes)
+			(in_bom no)
 			(on_board yes)
 			(property "Reference" "J"
 				(at -2.54 5.588 0)
@@ -4089,7 +4291,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:1X02_NO_SILK"
+			(property "Footprint" "main_board_footprints_V1.0:1X02_NO_SILK"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4114,14 +4316,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "CONN_021X02_NO_SILK_1_0"
@@ -4720,7 +4914,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SOD-323"
+			(property "Footprint" "main_board_footprints_V1.0:SOD-323"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4729,7 +4923,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588914414058164224"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4738,7 +4932,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Nexperia-BZX384_B3V3115/C550557"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4747,12 +4941,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C550557"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "DIODE-ZENER-MM3Z3V3T1G_1_0"
@@ -4973,7 +5168,7 @@
 		)
 		(symbol "main_board_symbols_V1.0:JST_2MM_MALE"
 			(exclude_from_sim no)
-			(in_bom yes)
+			(in_bom no)
 			(on_board yes)
 			(property "Reference" "J"
 				(at -2.54 5.842 0)
@@ -4993,7 +5188,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:JST-2-SMD"
+			(property "Footprint" "main_board_footprints_V1.0:JST-2-SMD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5018,14 +5213,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "JST_2MM_MALE_1_0"
@@ -5561,7 +5748,7 @@
 		)
 		(symbol "main_board_symbols_V1.0:JUMPER-SMT_2_NC_TRACE_SILK"
 			(exclude_from_sim no)
-			(in_bom yes)
+			(in_bom no)
 			(on_board yes)
 			(property "Reference" "JP"
 				(at 0 3.048 0)
@@ -5579,7 +5766,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SMT-JUMPER_2_NC_TRACE_SILK"
+			(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_2_NC_TRACE_SILK"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5604,14 +5791,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "JUMPER-SMT_2_NC_TRACE_SILK_1_0"
@@ -5746,7 +5925,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SMT-JUMPER_2_NO_SILK"
+			(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_2_NO_SILK"
 				(at 0 0 0)
 				(effects
 					(font
@@ -5771,14 +5950,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "JUMPER-SMT_2_NO_SILK_1_0"
@@ -6135,7 +6306,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:LED-0603"
+			(property "Footprint" "main_board_footprints_V1.0:LED-0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6144,7 +6315,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884075830513664"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6153,7 +6324,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/liteon-LTSTC191KRKT/C125099"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6162,12 +6333,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C125099"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "LED-RED0603_1_0"
@@ -6340,7 +6512,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:LED-0603"
+			(property "Footprint" "main_board_footprints_V1.0:LED-0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6349,7 +6521,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588899224880615424"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6358,7 +6530,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/liteon-LTSTC190KSKT/C125095"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6367,12 +6539,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C125095"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "LED-YELLOW0603_1_0"
@@ -10119,7 +10292,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SOT23-5"
+			(property "Footprint" "main_board_footprints_V1.0:SOT23-5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10128,7 +10301,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884548142292992"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10137,7 +10310,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/MicrochipTech-MCP73831T_2ACIOT/C424093"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10146,12 +10319,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C424093"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "MCP73831_1_0"
@@ -54382,7 +54556,7 @@
 		)
 		(symbol "main_board_symbols_V1.0:TEST-POINT3X5"
 			(exclude_from_sim no)
-			(in_bom yes)
+			(in_bom no)
 			(on_board yes)
 			(property "Reference" "TP"
 				(at -2.54 2.54 0)
@@ -54404,7 +54578,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:PAD.03X.05"
+			(property "Footprint" "main_board_footprints_V1.0:PAD.03X.05"
 				(at 0 0 0)
 				(effects
 					(font
@@ -54429,14 +54603,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "TEST-POINT3X5_1_0"
@@ -62874,7 +63040,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "03d7427b-f5c9-49be-88d0-28bd84d8d565")
@@ -62916,14 +63082,6 @@
 		)
 		(property "Description" ""
 			(at 375.285 134.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "https://www.mouser.com/ProductDetail/Adafruit/1769?qs=GURawfaeGuBbgoGtf2XstA%3D%3D"
-			(at 375.285 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63591,7 +63749,7 @@
 		(at 243.078 147.828 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "1064a3e0-b7a5-44e5-9c13-8fb7dbada865")
@@ -63610,7 +63768,6 @@
 				(font
 					(size 1.778 1.778)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_2_NC_TRACE_SILK"
@@ -63637,6 +63794,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -63665,7 +63823,7 @@
 		(at 422.275 26.162 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "108f3370-ca87-4c44-988f-49ce783efd6d")
@@ -63824,7 +63982,7 @@
 		(at 326.898 152.908 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "126f3ead-5e70-4c68-ae56-7bf6f8713582")
@@ -63844,7 +64002,6 @@
 					(size 1.778 1.778)
 				)
 				(justify left bottom)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:1X02_NO_SILK"
@@ -63871,6 +64028,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -64127,12 +64285,12 @@
 			)
 		)
 		(property "Value" "IC REG LINEAR 3.3V 1A 8UDFN"
-			(at 372.618 76.454 0)
+			(at 372.618 74.422 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify left bottom)
+				(justify left top)
 				(hide yes)
 			)
 		)
@@ -64145,7 +64303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP7361C.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8560079564241199104"
 			(at 380.238 66.548 0)
 			(effects
 				(font
@@ -64154,15 +64312,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-AP7361C_33FGE7/C151007"
 			(at 380.238 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/diodes-incorporated/AP7361C-33FGE-7/5638320"
+		(property "JLCPCB Part #" "C151007"
 			(at 380.238 66.548 0)
 			(effects
 				(font
@@ -64261,6 +64420,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -64303,7 +64463,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 393.319 71.374 0)
+			(at 394.462 71.247 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -64320,7 +64480,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178155321573376"
 			(at 392.938 69.088 0)
 			(effects
 				(font
@@ -64329,15 +64489,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/2057-CL10A475KP8NNNC/C1705"
 			(at 392.938 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A475KP8NNNC/3886702"
+		(property "JLCPCB Part #" "C1705"
 			(at 392.938 69.088 0)
 			(effects
 				(font
@@ -64527,7 +64688,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 303.022 137.16 0)
+			(at 302.514 137.287 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -64544,7 +64705,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178155321573376"
 			(at 304.038 135.128 0)
 			(effects
 				(font
@@ -64553,15 +64714,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/2057-CL10A475KP8NNNC/C1705"
 			(at 304.038 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A475KP8NNNC/3886702"
+		(property "JLCPCB Part #" "C1705"
 			(at 304.038 135.128 0)
 			(effects
 				(font
@@ -64771,7 +64933,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060RS75000.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884075830513664"
 			(at 243.078 134.874 0)
 			(effects
 				(font
@@ -64780,16 +64942,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/liteon-LTSTC191KRKT/C125099"
 			(at 243.078 134.874 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060RS75000/4489899?utm_adgroup=&utm_term=&utm_content=&gad_source=1"
-			(at 243.078 134.874 90)
+		(property "JLCPCB Part #" "C125099"
+			(at 243.078 134.874 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64997,7 +65160,7 @@
 			)
 		)
 		(property "Value" "4.7uF"
-			(at 355.6 139.573 90)
+			(at 357.886 135.128 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -65014,7 +65177,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A475KP8NNNC_Spec.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178155321573376"
 			(at 357.378 132.588 0)
 			(effects
 				(font
@@ -65023,16 +65186,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/2057-CL10A475KP8NNNC/C1705"
 			(at 357.378 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A475KP8NNNC/3886702"
-			(at 357.378 132.588 90)
+		(property "JLCPCB Part #" "C1705"
+			(at 357.378 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65741,7 +65905,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.we-online.com/components/products/datasheet/150060RS75000.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884075830513664"
 			(at 227.838 135.128 0)
 			(effects
 				(font
@@ -65750,16 +65914,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/liteon-LTSTC191KRKT/C125099"
 			(at 227.838 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/150060RS75000/4489899?utm_adgroup=&utm_term=&utm_content=&gad_source=1"
-			(at 227.838 135.128 90)
+		(property "JLCPCB Part #" "C125099"
+			(at 227.838 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -65793,7 +65958,7 @@
 		(at 270.9406 154.5376 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "40069ff4-ce96-4861-b519-4dfff68ffecf")
@@ -65841,6 +66006,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -66320,7 +66486,7 @@
 		(dnp no)
 		(uuid "47a7a336-94b4-473f-af1b-ab993107da7a")
 		(property "Reference" "R11"
-			(at 308.356 132.842 0)
+			(at 308.356 130.048 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -66329,7 +66495,7 @@
 			)
 		)
 		(property "Value" "4.7k"
-			(at 310.134 128.27 0)
+			(at 315.214 130.302 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -66346,7 +66512,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590883784890277888"
 			(at 311.658 130.048 0)
 			(effects
 				(font
@@ -66355,15 +66521,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/sei_stackpole_elec-RMCF0603FT4K70/C4293273"
 			(at 311.658 130.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT4K70/1760998"
+		(property "JLCPCB Part #" "C4293273"
 			(at 311.658 130.048 0)
 			(effects
 				(font
@@ -67102,7 +67269,7 @@
 		(at 212.598 147.828 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "53449739-97fe-4996-acac-d04faba58fc7")
@@ -67121,7 +67288,6 @@
 				(font
 					(size 1.778 1.778)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_2_NC_TRACE_SILK"
@@ -67148,6 +67314,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -67466,7 +67633,7 @@
 		(at 268.478 147.828 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "59c48b28-9f47-46de-ae7f-60eed65d10de")
@@ -67514,6 +67681,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -67539,7 +67707,7 @@
 		(at 268.478 124.968 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "59d1df57-9948-4630-b6a6-b00027eaa7c5")
@@ -67587,6 +67755,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -67767,7 +67936,6 @@
 				(font
 					(size 1.778 1.778)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_2_NO_SILK"
@@ -67794,6 +67962,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -68475,7 +68644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588907335158255616"
 			(at 212.598 124.968 0)
 			(effects
 				(font
@@ -68484,15 +68653,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Walsin_TechCorp-WR06X2201FTL/C163872"
 			(at 212.598 124.968 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/walsin-technology-corporation/WR06X2201FTL/13238691"
+		(property "JLCPCB Part #" "C163872"
 			(at 212.598 124.968 0)
 			(effects
 				(font
@@ -68523,16 +68693,17 @@
 		)
 	)
 	(symbol
+		(lib_name "JUMPER-COMBO_2_NC_TRACE_1")
 		(lib_id "main_board_symbols_V1.0:JUMPER-COMBO_2_NC_TRACE")
 		(at 413.258 61.468 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "6580560c-e38d-4de5-b706-a6550fa46f73")
 		(property "Reference" "UNK3V3_MEAS1"
-			(at 405.384 59.69 0)
+			(at 407.924 65.532 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -68546,7 +68717,6 @@
 				(font
 					(size 1.778 1.778)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:COMBO-JUMPER_2_NC_TRACE"
@@ -68573,6 +68743,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -68626,7 +68797,6 @@
 				(font
 					(size 1.778 1.778)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_2_NO_SILK"
@@ -68653,6 +68823,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -68771,7 +68942,6 @@
 				(font
 					(size 1.778 1.778)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_2_NC_TRACE_SILK"
@@ -68798,6 +68968,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -69726,7 +69897,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://diotec.com/request/datasheet/mms3z2b4gw.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588914414058164224"
 			(at 362.458 81.788 0)
 			(effects
 				(font
@@ -69735,15 +69906,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Nexperia-BZX384_B3V3115/C550557"
 			(at 362.458 81.788 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.mouser.com/ProductDetail/Diotec-Semiconductor/MMS3Z3B3GW?qs=Li%252BoUPsLEnutPooPGo9H%2FQ%3D%3D"
+		(property "JLCPCB Part #" "C550557"
 			(at 362.458 81.788 0)
 			(effects
 				(font
@@ -70320,7 +70492,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588907335158255616"
 			(at 418.592 191.643 0)
 			(effects
 				(font
@@ -70329,21 +70501,21 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 418.592 191.643 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/walsin-technology-corporation/WR06X2201FTL/13238691"
+		(property "Description" "https://jlcpcb.com/partdetail/Walsin_TechCorp-WR06X2201FTL/C163872"
 			(at 418.592 191.643 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C163872"
+			(at 418.592 191.643 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -70593,7 +70765,7 @@
 		(at 194.818 150.368 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "8ffb0814-990c-4d2d-a2a6-446245ed3c5c")
@@ -71050,7 +71222,7 @@
 		(at 268.478 135.128 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a0d213c5-e7e9-42ee-ad38-943de4546a55")
@@ -71098,6 +71270,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -71123,7 +71296,7 @@
 		(at 227.838 147.828 90)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a1195192-406a-45fc-ad2f-ccf03b0ec83d")
@@ -71142,7 +71315,6 @@
 				(font
 					(size 1.778 1.778)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_2_NC_TRACE_SILK"
@@ -71169,6 +71341,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -71524,7 +71697,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://optoelectronics.liteon.com/upload/download/DS22-2000-223/LTST-C191KRKT.PDF"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884075830513664"
 			(at 212.598 135.128 0)
 			(effects
 				(font
@@ -71533,16 +71706,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/liteon-LTSTC191KRKT/C125099"
 			(at 212.598 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/liteon/LTST-C191KRKT/386837"
-			(at 212.598 135.128 90)
+		(property "JLCPCB Part #" "C125099"
+			(at 212.598 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72260,7 +72434,7 @@
 		(dnp no)
 		(uuid "b8820933-318c-45fa-99f1-db2e5440083a")
 		(property "Reference" "R12"
-			(at 348.234 135.128 0)
+			(at 347.98 129.032 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -72269,7 +72443,7 @@
 			)
 		)
 		(property "Value" "2.0k"
-			(at 346.202 130.048 0)
+			(at 353.568 136.906 90)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -72286,7 +72460,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C304.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589819829713461248"
 			(at 349.758 132.588 0)
 			(effects
 				(font
@@ -72295,15 +72469,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Bourns-CR0603_FX2001ELF/C2076433"
 			(at 349.758 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-2001ELF/3740910"
+		(property "JLCPCB Part #" "C2076433"
 			(at 349.758 132.588 0)
 			(effects
 				(font
@@ -72497,7 +72672,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.passivecomponent.com/wp-content/uploads/chipR/ASC_WR.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588907335158255616"
 			(at 418.592 206.883 0)
 			(effects
 				(font
@@ -72506,21 +72681,21 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 418.592 206.883 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/walsin-technology-corporation/WR06X2201FTL/13238691"
+		(property "Description" "https://jlcpcb.com/partdetail/Walsin_TechCorp-WR06X2201FTL/C163872"
 			(at 418.592 206.883 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C163872"
+			(at 418.592 206.883 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -73809,7 +73984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://optoelectronics.liteon.com/upload/download/DS-22-99-0189/LTST-C190KSKT.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588899224880615424"
 			(at 311.658 140.208 0)
 			(effects
 				(font
@@ -73818,16 +73993,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/liteon-LTSTC190KSKT/C125095"
 			(at 311.658 140.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/liteon/LTST-C190KSKT/386819"
-			(at 311.658 140.208 90)
+		(property "JLCPCB Part #" "C125095"
+			(at 311.658 140.208 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74798,12 +74974,12 @@
 			)
 		)
 		(property "Value" "MCP73831 IC BATT CNTL"
-			(at 337.058 132.588 0)
+			(at 321.818 132.588 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify right bottom)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -74816,7 +74992,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP73831-Family-Data-Sheet-DS20001984H.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588884548142292992"
 			(at 329.438 124.968 0)
 			(effects
 				(font
@@ -74825,15 +75001,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/MicrochipTech-MCP73831T_2ACIOT/C424093"
 			(at 329.438 124.968 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/microchip-technology/MCP73831T-2ACI-OT/964301"
+		(property "JLCPCB Part #" "C424093"
 			(at 329.438 124.968 0)
 			(effects
 				(font
@@ -75246,7 +75423,7 @@
 		(at 271.0046 160.5027 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "f31ba77a-2e1d-4f56-9840-10a85e88aaa3")
@@ -75294,6 +75471,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -75415,7 +75593,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589784842562416640"
 			(at 227.838 124.968 0)
 			(effects
 				(font
@@ -75424,15 +75602,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/parts/componentSearch?searchTxt=RMCF0603FT1K00"
 			(at 227.838 124.968 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT1K00/1761077"
+		(property "JLCPCB Part #" "C2484712"
 			(at 227.838 124.968 0)
 			(effects
 				(font
@@ -75776,7 +75955,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589784842562416640"
 			(at 243.078 124.968 0)
 			(effects
 				(font
@@ -75785,16 +75964,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/parts/componentSearch?searchTxt=RMCF0603FT1K00"
 			(at 243.078 124.968 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Field4" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT1K00/1761077"
-			(at 243.078 124.968 0)
+		(property "JLCPCB Part #" "C2484712"
+			(at 252.222 125.476 0)
 			(effects
 				(font
 					(size 1.27 1.27)
