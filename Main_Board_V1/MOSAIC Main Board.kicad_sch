@@ -611,7 +611,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "1.0uF"
 				(at 1.524 -2.159 0)
 				(effects
 					(font
@@ -620,7 +620,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -629,7 +629,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178147360378880"
 				(at 0 0 0)
 				(effects
 					(font
@@ -638,7 +638,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/1944-CL10A105KO8NNNC/C1592"
 				(at 0 0 0)
 				(effects
 					(font
@@ -647,12 +647,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C1592"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "1.0UF-0603-16V-10%_1_0"
@@ -3771,7 +3772,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SOT25"
+			(property "Footprint" "main_board_footprints_V1.0:SOT25"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3780,7 +3781,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590196445028003840"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3789,7 +3790,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/TorexSemicon-XC6503D331MRG/C2891277"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3798,12 +3799,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C2891277"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "AP7347DQ-33W5-7K-3.3V_1_0"
@@ -6060,7 +6062,7 @@
 					)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SMT-JUMPER_3_2-NC_TRACE_SILK"
+			(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_3_2-NC_TRACE_SILK"
 				(at 0 0 0)
 				(effects
 					(font
@@ -6085,14 +6087,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "JUMPER-SMT_3_2-NC_TRACE_SILK_1_0"
@@ -53138,7 +53132,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:JST04_1MM_VERT"
+			(property "Footprint" "main_board_footprints_V1.0:JST04_1MM_VERT"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53147,7 +53141,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588897884003569664"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53156,7 +53150,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Jst-BM04B_SRSS_TB_LF_SN/C160390"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53165,12 +53159,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C160390"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "QWIIC_CONNECTOR_1_0"
@@ -53412,7 +53407,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588895674171052032"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53421,7 +53416,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
+			(property "Description" "https://jlcpcb.com/partdetail/C145956"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53430,7 +53425,7 @@
 					(hide yes)
 				)
 			)
-			(property "JLCPCB Part #" "C295747"
+			(property "JLCPCB Part #" "C145956"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53803,7 +53798,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:STAND-OFF-REFLOW-M2.5"
+			(property "Footprint" "main_board_footprints_V1.0:STAND-OFF-REFLOW-M2.5"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53828,14 +53823,6 @@
 						(size 1.27 1.27)
 					)
 					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
 				)
 			)
 			(symbol "STAND-OFF-REFLOW-M2.5_2.5MM_TALL_1_0"
@@ -56446,9 +56433,9 @@
 		)
 		(uuid "55aa6981-57aa-46c1-b7f3-068b7197a79e")
 	)
-	(text "Input: 1.7 - 5.5V\nOutput: 500mA Max"
+	(text "Input: 1.7 - 6V\nOutput: 500mA Max, Fixed 3.3V"
 		(exclude_from_sim no)
-		(at 407.289 119.761 0)
+		(at 397.764 118.11 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -56746,7 +56733,7 @@
 		)
 		(uuid "f7577a60-bedd-4b8a-ad34-2719c38c7bf4")
 	)
-	(text "Qwiic Voltage Regulation - \nAP7347DQ"
+	(text "Qwiic Voltage Regulation - \nXC6503D331MR"
 		(exclude_from_sim no)
 		(at 397.129 112.014 0)
 		(effects
@@ -65349,14 +65336,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 189.738 282.448 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -67485,12 +67464,12 @@
 		(at 426.212 199.263 180)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "55dda4a6-fbb6-4542-8f18-b421946217b1")
 		(property "Reference" "I2C_PU1"
-			(at 420.624 199.263 0)
+			(at 418.592 199.39 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -67503,7 +67482,6 @@
 				(font
 					(size 1.778 1.778)
 				)
-				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SMT-JUMPER_3_2-NC_TRACE_SILK"
@@ -67530,6 +67508,7 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -68266,14 +68245,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 192.278 282.448 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -68393,7 +68364,7 @@
 		(dnp no)
 		(uuid "6301170d-b9cd-467f-a5ef-390221fd76db")
 		(property "Reference" "R14"
-			(at 403.606 138.684 0)
+			(at 404.114 135.128 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -68438,11 +68409,12 @@
 			)
 		)
 		(property "JLCPCB Part #" "C237115"
-			(at 405.638 135.128 0)
+			(at 403.098 133.858 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -69586,14 +69558,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 194.818 282.448 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -69705,12 +69669,12 @@
 			)
 		)
 		(property "Value" "Vertical Qwiic Connector"
-			(at 352.933 218.948 0)
+			(at 351.536 222.25 0)
 			(effects
 				(font
 					(size 1.778 1.778)
 				)
-				(justify left bottom)
+				(justify left top)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:JST04_1MM_VERT"
@@ -69722,7 +69686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/parts/1/2/2/8/9/Qwiic_Connector_Datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588897884003569664"
 			(at 374.523 211.328 0)
 			(effects
 				(font
@@ -69731,15 +69695,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-BM04B_SRSS_TB_LF_SN/C160390"
 			(at 374.523 211.328 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.sparkfun.com/products/14417"
+		(property "JLCPCB Part #" "C160390"
 			(at 374.523 211.328 0)
 			(effects
 				(font
@@ -70360,14 +70325,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 328.549 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -70511,11 +70468,12 @@
 			)
 		)
 		(property "JLCPCB Part #" "C163872"
-			(at 418.592 191.643 0)
+			(at 419.354 186.944 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -70666,11 +70624,12 @@
 			)
 		)
 		(property "JLCPCB Part #" "C237115"
-			(at 234.315 272.288 0)
+			(at 243.078 266.954 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -70950,7 +70909,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/AP7347DQ.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590196445028003840"
 			(at 423.418 132.588 0)
 			(effects
 				(font
@@ -70959,15 +70918,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/TorexSemicon-XC6503D331MRG/C2891277"
 			(at 423.418 132.588 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/diodes-incorporated/AP7347DQ-33W5-7/15516981"
+		(property "JLCPCB Part #" "C2891277"
 			(at 423.418 132.588 0)
 			(effects
 				(font
@@ -71489,14 +71449,6 @@
 				(font
 					(size 1.27 1.27)
 				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 335.788 240.03 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 				(hide yes)
 			)
 		)
@@ -71867,7 +71819,7 @@
 			)
 		)
 		(property "Value" "1.0uF"
-			(at 437.642 137.287 0)
+			(at 437.642 137.668 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -71884,7 +71836,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A105KO8NNNC_Spec.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178147360378880"
 			(at 436.118 135.128 0)
 			(effects
 				(font
@@ -71893,15 +71845,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/1944-CL10A105KO8NNNC/C1592"
 			(at 436.118 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A105KO8NNNC/3886692"
+		(property "JLCPCB Part #" "C1592"
 			(at 436.118 135.128 0)
 			(effects
 				(font
@@ -72691,11 +72644,12 @@
 			)
 		)
 		(property "JLCPCB Part #" "C163872"
-			(at 418.592 206.883 0)
+			(at 410.464 211.582 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -73763,11 +73717,12 @@
 			)
 		)
 		(property "JLCPCB Part #" "C237115"
-			(at 226.695 272.288 0)
+			(at 219.964 272.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -74728,8 +74683,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" "QWIIC_RIGHT_ANGLE"
-			(at 357.251 191.77 0)
+		(property "Value" "Right Angle Qwiic Connector"
+			(at 350.266 170.688 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -74746,7 +74701,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588895674171052032"
 			(at 374.523 185.928 0)
 			(effects
 				(font
@@ -74755,7 +74710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
+		(property "Description" "https://jlcpcb.com/partdetail/C145956"
 			(at 374.523 185.928 0)
 			(effects
 				(font
@@ -74764,7 +74719,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C295747"
+		(property "JLCPCB Part #" "C145956"
 			(at 374.523 185.928 0)
 			(effects
 				(font
@@ -74890,7 +74845,7 @@
 			)
 		)
 		(property "Value" "1.0uF"
-			(at 388.62 139.827 0)
+			(at 387.096 139.954 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -74907,7 +74862,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL10A105KO8NNNC_Spec.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178147360378880"
 			(at 395.478 137.668 0)
 			(effects
 				(font
@@ -74916,15 +74871,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/1944-CL10A105KO8NNNC/C1592"
 			(at 395.478 137.668 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL10A105KO8NNNC/3886692"
+		(property "JLCPCB Part #" "C1592"
 			(at 395.478 137.668 0)
 			(effects
 				(font
