@@ -1,0 +1,79 @@
+(footprint "MountingHole_3.2mm_Pad_Oval"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "REF**"
+		(at 0 -4.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "e36cc575-fdb2-45b6-9ea4-c5650a3c7ded")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "MountingHole_3.2mm_Pad_Oval"
+		(at 0 5.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "cce8e47e-549a-4f9f-9491-698cfb683faa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8a499740-b202-4844-abd6-b4406d9374a0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0b594d64-3b23-4598-a0c1-b445fdc1827d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_pos_files exclude_from_bom)
+	(fp_text user "${REFERENCE}"
+		(at 0 8 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "54c66633-c554-4a5c-b707-7db10d2de4fa")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole oval
+		(at 0 0)
+		(size 10.16 6.400013)
+		(drill oval 6.400013 3.199994)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(thermal_bridge_angle 45)
+		(uuid "0fbb3450-fbbc-49f2-9a18-3c7e2c3dc8c4")
+	)
+	(embedded_fonts no)
+)
