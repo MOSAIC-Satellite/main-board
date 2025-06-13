@@ -259,182 +259,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SWITCH-SPDT-SMD-RIGHT-ANGLE_1"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at 1.27 3.048 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Value" "switch"
-				(at 1.016 -3.302 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify top)
-				)
-			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SWITCH_SPST_SMD_A"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "SWITCH-SPDT-SMD-RIGHT-ANGLE_1_1_0"
-				(polyline
-					(pts
-						(xy 0 0) (xy 2.54 1.27)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 0 0)
-					(radius 0.3592)
-					(stroke
-						(width 0.2032)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy 3.175 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 2.54)
-					(radius 0.3592)
-					(stroke
-						(width 0.2032)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -2.54) (xy 3.175 -2.54)
-					)
-					(stroke
-						(width 0.127)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(circle
-					(center 2.54 -2.54)
-					(radius 0.3592)
-					(stroke
-						(width 0.2032)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -2.54 0 0)
-					(length 2.54)
-					(name "P"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "O"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 2.54)
-					(name "S"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "main_board_symbols_V1.0:0.1UF-0603-25V-(+80/-20%)"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -939,7 +763,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "10k"
 				(at 0 -1.524 0)
 				(effects
 					(font
@@ -948,7 +772,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -957,7 +781,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589835712603725825"
 				(at 0 0 0)
 				(effects
 					(font
@@ -966,7 +790,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Bourns-CR0603_FX1002ELF/C840630"
 				(at 0 0 0)
 				(effects
 					(font
@@ -975,12 +799,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C840630"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "10KOHM-0603-1/10W-1%_1_0"
@@ -1255,6 +1080,212 @@
 				)
 				(pin passive line
 					(at 0 -2.54 90)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "main_board_symbols_V1.0:19.6KOHM-0603-1/10W-1%"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 0 1.524 0)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+					(justify bottom)
+				)
+			)
+			(property "Value" "19.6kOhm"
+				(at 0 -1.524 0)
+				(effects
+					(font
+						(size 1.778 1.778)
+					)
+					(justify top)
+				)
+			)
+			(property "Footprint" "main_board_footprints_V1.0:0603"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178087923437568"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "https://jlcpcb.com/partdetail/23625-0603WAF1962T5E/C22898"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "JLCPCB Part #" "C22898"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "19.6KOHM-0603-1/10W-1%_1_0"
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.159 1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.159 1.016) (xy -1.524 -1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -1.016) (xy -0.889 1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.889 1.016) (xy -0.254 -1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.254 -1.016) (xy 0.381 1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.381 1.016) (xy 1.016 -1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.016 -1.016) (xy 1.651 1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.651 1.016) (xy 2.286 -1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.286 -1.016) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type solid)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 0 0)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
 					(length 2.54)
 					(name "2"
 						(effects
@@ -1742,211 +1773,6 @@
 				)
 			)
 			(symbol "2.2KOHM-0603-1/10W-1%_1_0"
-				(polyline
-					(pts
-						(xy -2.54 0) (xy -2.159 1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -2.159 1.016) (xy -1.524 -1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.524 -1.016) (xy -0.889 1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.889 1.016) (xy -0.254 -1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy -0.254 -1.016) (xy 0.381 1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0.381 1.016) (xy 1.016 -1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.016 -1.016) (xy 1.651 1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.651 1.016) (xy 2.286 -1.016)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.286 -1.016) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type solid)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(pin passive line
-					(at -5.08 0 0)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 0 0)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
-		(symbol "main_board_symbols_V1.0:20KOHM-0603-1/10W-1%"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 0 1.524 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify bottom)
-				)
-			)
-			(property "Value" ""
-				(at 0 -1.524 0)
-				(effects
-					(font
-						(size 1.778 1.778)
-					)
-					(justify top)
-				)
-			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(symbol "20KOHM-0603-1/10W-1%_1_0"
 				(polyline
 					(pts
 						(xy -2.54 0) (xy -2.159 1.016)
@@ -3526,7 +3352,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "5.1k"
 				(at 0 -1.524 0)
 				(effects
 					(font
@@ -3535,7 +3361,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3544,7 +3370,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588900164963094529"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3553,7 +3379,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Yageo-RC0603JR075K1L/C14677"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3562,12 +3388,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C14677"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "5.1KOHM5.1KOHM-0603-1/10W-1%_1_0"
@@ -10488,7 +10315,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:M.2-CONNECTOR-E"
+			(property "Footprint" "main_board_footprints_V1.0:M.2-CONNECTOR-E"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10497,7 +10324,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10506,7 +10333,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
 				(at 0 0 0)
 				(effects
 					(font
@@ -10515,12 +10342,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C2977809"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "MICROMOD-2222-C_1_0"
@@ -11805,7 +11633,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Single_v21:M.2-CONNECTOR-E-MEMORY"
+			(property "Footprint" "main_board_footprints_V1.0:M.2-CONNECTOR-E-Memory"
 				(at 0.254 -39.751 0)
 				(effects
 					(font
@@ -11814,7 +11642,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 				(at 0 0 0)
 				(effects
 					(font
@@ -11823,7 +11651,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
 				(at 0 0 0)
 				(effects
 					(font
@@ -11832,12 +11660,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C2977809"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "MICROMOD-MEMORY-C_1_0"
@@ -12708,7 +12537,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:M.2-CONNECTOR-E-FUNCTION-STANDARD"
+			(property "Footprint" "main_board_footprints_V1.0:M.2-CONNECTOR-E-FUNCTION-STANDARD"
 				(at 0 0 0)
 				(effects
 					(font
@@ -12717,7 +12546,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 				(at 0 0 0)
 				(effects
 					(font
@@ -12726,7 +12555,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
 				(at 0 0 0)
 				(effects
 					(font
@@ -12735,12 +12564,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C2977809"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "MICROMOD_FUNCTION_MAIN_1_0"
@@ -13786,9 +13616,10 @@
 						(size 1.778 1.778)
 					)
 					(justify left bottom)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SOT23-3"
+			(property "Footprint" "main_board_footprints_V1.0:SOT23-3"
 				(at 0 0 0)
 				(effects
 					(font
@@ -13797,7 +13628,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880677328183296"
 				(at 0 0 0)
 				(effects
 					(font
@@ -13806,7 +13637,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/VishayIntertech-SI2343DS_T1E3/C144996"
 				(at 0 0 0)
 				(effects
 					(font
@@ -13815,12 +13646,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C144996"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "MOSFET_PCH-DMG2307L_1_0"
@@ -52954,9 +52786,10 @@
 						(size 1.778 1.778)
 					)
 					(justify top)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:1210"
+			(property "Footprint" "main_board_footprints_V1.0:1210"
 				(at 0 0 0)
 				(effects
 					(font
@@ -52965,7 +52798,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588899520989548544"
 				(at 0 0 0)
 				(effects
 					(font
@@ -52974,7 +52807,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Shenzhen_JdtFuse-ASMD1210200/C135353"
 				(at 0 0 0)
 				(effects
 					(font
@@ -52983,12 +52816,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C135353"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "PPTC_6V2A_1_0"
@@ -53390,7 +53224,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:JST04_1MM_RA"
+			(property "Footprint" "main_board_footprints_V1.0:JST04_1MM_RA"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53399,7 +53233,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53408,7 +53242,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53417,12 +53251,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C295747"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "QWIIC_CONNECTORJS-1MM_1_0"
@@ -54367,16 +54202,17 @@
 					(justify bottom)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "switch"
 				(at 1.016 -3.302 0)
 				(effects
 					(font
 						(size 1.778 1.778)
 					)
 					(justify top)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SWITCH_SPST_SMD_A"
+			(property "Footprint" "main_board_footprints_V1.0:SWITCH_SPST_SMD_A"
 				(at 0 0 0)
 				(effects
 					(font
@@ -54385,7 +54221,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603117332785491968"
 				(at 0 0 0)
 				(effects
 					(font
@@ -54394,7 +54230,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/Sofng-MS1290N/C19188866"
 				(at 0 0 0)
 				(effects
 					(font
@@ -54403,12 +54239,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C19188866"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "SWITCH-SPDT-SMD-RIGHT-ANGLE_1_0"
@@ -54667,7 +54504,7 @@
 					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SOT-23-6"
+			(property "Footprint" "main_board_footprints_V1.0:SOT-23-6"
 				(at 0 0 0)
 				(effects
 					(font
@@ -54676,7 +54513,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588918592402296832"
 				(at 0 0 0)
 				(effects
 					(font
@@ -54685,7 +54522,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-D5V0P4UR6SO7/C531179"
 				(at 0 0 0)
 				(effects
 					(font
@@ -54694,12 +54531,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C531179"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "TVS_DIODE_ARRAYSMD_1_0"
@@ -55510,9 +55348,10 @@
 						(size 1.778 1.778)
 					)
 					(justify left bottom)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:USB-C-16P-2LAYER-PADS"
+			(property "Footprint" "main_board_footprints_V1.0:USB TYPE C RA SMT 16PIN 10155435-00011LF_AMP"
 				(at 0 0 0)
 				(effects
 					(font
@@ -55521,7 +55360,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590906928107372544"
 				(at 0 0 0)
 				(effects
 					(font
@@ -55530,7 +55369,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/AmphenolIcc-1015543500011LF/C5409177"
 				(at 0 0 0)
 				(effects
 					(font
@@ -55539,12 +55378,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C5409177"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "USB_C_2-LAYER_PADS_1_0"
@@ -56278,7 +56118,7 @@
 	)
 	(text "FC1"
 		(exclude_from_sim no)
-		(at 149.098 183.388 0)
+		(at 163.322 185.928 0)
 		(effects
 			(font
 				(size 2.54 2.54)
@@ -63260,7 +63100,7 @@
 		(at 244.348 51.308 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "07c84e61-87df-4699-8fcf-f189ca085226")
@@ -63577,7 +63417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/inputoutput/io_usb_type_c_connector_cable.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590906928107372544"
 			(at 220.218 61.468 0)
 			(effects
 				(font
@@ -63586,15 +63426,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/AmphenolIcc-1015543500011LF/C5409177"
 			(at 220.218 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/amphenol-cs-fci/10155435-00011LF/11602060"
+		(property "JLCPCB Part #" "C5409177"
 			(at 220.218 61.468 0)
 			(effects
 				(font
@@ -65081,7 +64922,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.vishay.com/docs/72079/si2343ds.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880677328183296"
 			(at 319.278 48.768 0)
 			(effects
 				(font
@@ -65090,15 +64931,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/VishayIntertech-SI2343DS_T1E3/C144996"
 			(at 319.278 48.768 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/vishay-siliconix/SI2343DS-T1-E3/1656856?utm_adgroup=&utm_term=&utm_content=&gad_source=1"
+		(property "JLCPCB Part #" "C144996"
 			(at 319.278 48.768 0)
 			(effects
 				(font
@@ -65570,12 +65412,12 @@
 			)
 		)
 		(property "Value" "TVS DIODE 3.3VWM 6VC SOT26"
-			(at 273.812 74.93 0)
+			(at 281.178 81.788 0)
 			(effects
 				(font
 					(size 1.778 1.5113)
 				)
-				(justify right top)
+				(justify left bottom)
 				(hide yes)
 			)
 		)
@@ -65588,7 +65430,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/D5V0P4URL6SO.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588918592402296832"
 			(at 278.638 69.088 0)
 			(effects
 				(font
@@ -65597,15 +65439,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-D5V0P4UR6SO7/C531179"
 			(at 278.638 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.mouser.com/ProductDetail/Diodes-Incorporated/D5V0P4URL6SO-7?qs=rN85NNvew%2FTFk6tlkCQ5yQ%3D%3D"
+		(property "JLCPCB Part #" "C531179"
 			(at 278.638 69.088 0)
 			(effects
 				(font
@@ -66191,7 +66034,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589835712603725825"
 			(at 29.718 89.408 0)
 			(effects
 				(font
@@ -66200,16 +66043,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Bourns-CR0603_FX1002ELF/C840630"
 			(at 29.718 89.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/bourns-inc/CR0603-FX-1002ELF/3593188"
-			(at 29.718 89.408 0)
+		(property "JLCPCB Part #" "C840630"
+			(at 35.306 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66795,7 +66639,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/usa-en/product-2199230-4.datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 			(at 154.178 216.408 0)
 			(effects
 				(font
@@ -66804,15 +66648,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
 			(at 154.178 216.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2199230-4/4208915"
+		(property "JLCPCB Part #" "C2977809"
 			(at 154.178 216.408 0)
 			(effects
 				(font
@@ -67007,7 +66852,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/usa-en/product-2199230-4.datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 			(at 301.244 210.693 0)
 			(effects
 				(font
@@ -67016,16 +66861,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
 			(at 301.244 210.693 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2199230-4/4208915"
-			(at 301.244 210.693 0)
+		(property "JLCPCB Part #" "C2977809"
+			(at 301.244 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -67896,7 +67742,7 @@
 		(at 257.048 48.768 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "5a74524e-13bb-4dc2-ab8a-df770e766c08")
@@ -68310,7 +68156,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/Switches/SLIDE.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603117332785491968"
 			(at 171.958 130.048 0)
 			(effects
 				(font
@@ -68319,15 +68165,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Sofng-MS1290N/C19188866"
 			(at 171.958 130.048 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.sparkfun.com/products/10860"
+		(property "JLCPCB Part #" "C19188866"
 			(at 171.958 130.048 0)
 			(effects
 				(font
@@ -68899,7 +68746,7 @@
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "69523778-4437-404a-ab16-1e18bf1f9327")
@@ -69424,7 +69271,7 @@
 		)
 	)
 	(symbol
-		(lib_id "main_board_symbols_V1.0:20KOHM-0603-1/10W-1%")
+		(lib_id "main_board_symbols_V1.0:19.6KOHM-0603-1/10W-1%")
 		(at 29.718 74.168 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -69441,7 +69288,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" "20k"
+		(property "Value" "19.6k"
 			(at 31.242 74.168 0)
 			(effects
 				(font
@@ -69459,7 +69306,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8586178087923437568"
 			(at 29.718 74.168 0)
 			(effects
 				(font
@@ -69468,15 +69315,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/23625-0603WAF1962T5E/C22898"
 			(at 29.718 74.168 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/panasonic-electronic-components/ERA-3AEB203V/1465885"
+		(property "JLCPCB Part #" "C22898"
 			(at 29.718 74.168 0)
 			(effects
 				(font
@@ -69935,7 +69783,7 @@
 			)
 		)
 		(property "Value" "PTC RESET FUSE 6V 2A 1210"
-			(at 261.747 51.308 0)
+			(at 258.318 56.642 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -69953,7 +69801,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.littelfuse.com/media?resourcetype=datasheets&itemid=b3a2be92-83a1-491d-9c6d-dc64451de047&filename=1210l-datasheet-update"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588899520989548544"
 			(at 257.048 53.848 0)
 			(effects
 				(font
@@ -69962,16 +69810,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Shenzhen_JdtFuse-ASMD1210200/C135353"
 			(at 257.048 53.848 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/littelfuse-inc/1210L200PR/2520737"
-			(at 257.048 53.848 0)
+		(property "JLCPCB Part #" "C135353"
+			(at 256.032 56.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -71492,7 +71341,7 @@
 		(at 278.638 51.308 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "a65733e1-94da-4880-b264-0daeda35863c")
@@ -71718,7 +71567,7 @@
 		(at 175.514 42.418 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "ab844d07-2ac9-45bc-b6e1-87064e36bc8b")
@@ -71937,7 +71786,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/usa-en/product-2199230-4.datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 			(at 62.738 216.408 0)
 			(effects
 				(font
@@ -71946,15 +71795,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
 			(at 62.738 216.408 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2199230-4/4208915"
+		(property "JLCPCB Part #" "C2977809"
 			(at 62.738 216.408 0)
 			(effects
 				(font
@@ -72724,7 +72574,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/usa-en/product-2199230-4.datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 			(at 234.823 210.439 0)
 			(effects
 				(font
@@ -72733,16 +72583,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
 			(at 234.823 210.439 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2199230-4/4208915"
-			(at 234.823 210.439 0)
+		(property "JLCPCB Part #" "C2977809"
+			(at 234.823 180.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73767,7 +73618,7 @@
 		(dnp no)
 		(uuid "d9de5e1e-6377-4168-a194-9108961cd355")
 		(property "Reference" "R9"
-			(at 252.222 75.184 0)
+			(at 247.396 74.168 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -73776,7 +73627,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 254 70.104 0)
+			(at 249.428 67.564 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -73793,7 +73644,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588900164963094529"
 			(at 250.698 71.628 0)
 			(effects
 				(font
@@ -73802,16 +73653,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Yageo-RC0603JR075K1L/C14677"
 			(at 250.698 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-075K1L/726796"
-			(at 250.698 71.628 0)
+		(property "JLCPCB Part #" "C14677"
+			(at 254.508 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74014,7 +73866,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 308.229 69.342 0)
+			(at 308.102 69.088 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -74031,7 +73883,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-0710KL/726700"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589835712603725825"
 			(at 306.578 69.088 0)
 			(effects
 				(font
@@ -74040,12 +73892,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Bourns-CR0603_FX1002ELF/C840630"
 			(at 306.578 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C840630"
+			(at 299.974 69.088 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -74248,7 +74110,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/Switches/SLIDE.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603117332785491968"
 			(at 169.418 117.348 0)
 			(effects
 				(font
@@ -74257,15 +74119,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Sofng-MS1290N/C19188866"
 			(at 169.418 117.348 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.sparkfun.com/products/10860"
+		(property "JLCPCB Part #" "C19188866"
 			(at 169.418 117.348 0)
 			(effects
 				(font
@@ -74303,7 +74166,7 @@
 		(at 29.718 112.268 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "e170b41b-b026-4ada-af07-481befe6e393")
@@ -74451,7 +74314,7 @@
 		(dnp no)
 		(uuid "e49efa3a-d715-4ab4-b68c-1e08b9361b6c")
 		(property "Reference" "R8"
-			(at 247.396 75.184 0)
+			(at 242.316 74.168 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -74460,7 +74323,7 @@
 			)
 		)
 		(property "Value" "5.1k"
-			(at 249.174 70.358 0)
+			(at 244.094 67.564 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -74477,7 +74340,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.yageo.com/upload/media/product/products/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588900164963094529"
 			(at 245.618 71.628 0)
 			(effects
 				(font
@@ -74486,15 +74349,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Yageo-RC0603JR075K1L/C14677"
 			(at 245.618 71.628 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/yageo/RC0603JR-075K1L/726796"
+		(property "JLCPCB Part #" "C14677"
 			(at 245.618 71.628 0)
 			(effects
 				(font
@@ -74697,7 +74561,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/assets/parts/1/2/2/8/9/Qwiic_Connector_Datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8587740317575483392"
 			(at 374.523 185.928 0)
 			(effects
 				(font
@@ -74706,15 +74570,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Jst-S2B_PH_SM4_TB_LF_SN/C295747"
 			(at 374.523 185.928 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.sparkfun.com/products/14417"
+		(property "JLCPCB Part #" "C295747"
 			(at 374.523 185.928 0)
 			(effects
 				(font
@@ -75036,7 +74901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.te.com/usa-en/product-2199230-4.datasheet.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8589042003489263616"
 			(at 93.218 97.028 0)
 			(effects
 				(font
@@ -75045,15 +74910,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/TeConnectivity-21992304/C2977809"
 			(at 93.218 97.028 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/2199230-4/4208915"
+		(property "JLCPCB Part #" "C2977809"
 			(at 93.218 97.028 0)
 			(effects
 				(font
@@ -75279,7 +75145,6 @@
 		)
 	)
 	(symbol
-		(lib_name "SWITCH-SPDT-SMD-RIGHT-ANGLE_1")
 		(lib_id "main_board_symbols_V1.0:SWITCH-SPDT-SMD-RIGHT-ANGLE")
 		(at 169.418 107.188 0)
 		(unit 1)
@@ -75316,7 +75181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://cdn.sparkfun.com/datasheets/Components/Switches/SLIDE.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603117332785491968"
 			(at 169.418 107.188 0)
 			(effects
 				(font
@@ -75325,15 +75190,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/Sofng-MS1290N/C19188866"
 			(at 169.418 107.188 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.sparkfun.com/products/10860"
+		(property "JLCPCB Part #" "C19188866"
 			(at 169.418 107.188 0)
 			(effects
 				(font
@@ -75953,7 +75819,7 @@
 		(at 29.718 66.548 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "fcdac0a0-9bbc-45ff-a3f1-39f185477f60")
