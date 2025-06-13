@@ -272,7 +272,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "0.1uF"
 				(at 1.524 -2.159 0)
 				(effects
 					(font
@@ -299,7 +299,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/-KAF21BR71H104JT/C18212337"
 				(at 0 0 0)
 				(effects
 					(font
@@ -308,12 +308,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C18212337"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "0.1UF-0603-25V-(+80/-20%)_1_0"
@@ -558,7 +559,7 @@
 					(justify bottom)
 				)
 			)
-			(property "Value" ""
+			(property "Value" "100k"
 				(at 0 -1.524 0)
 				(effects
 					(font
@@ -567,7 +568,7 @@
 					(justify top)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0603"
 				(at 0 0 0)
 				(effects
 					(font
@@ -576,7 +577,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906178609369088"
 				(at 0 0 0)
 				(effects
 					(font
@@ -585,7 +586,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/sei_stackpole_elec-RMCF0603JT100K/C237115"
 				(at 0 0 0)
 				(effects
 					(font
@@ -594,12 +595,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C237115"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "100KOHM-0603-1/10W-1%_1_0"
@@ -978,7 +980,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0805"
+			(property "Footprint" "main_board_footprints_V1.0:0805"
 				(at 0 0 0)
 				(effects
 					(font
@@ -987,7 +989,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588949188905717760"
 				(at 0 0 0)
 				(effects
 					(font
@@ -996,7 +998,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/299824-CL21A106KOCLRNC/C318695"
 				(at 0 0 0)
 				(effects
 					(font
@@ -1005,12 +1007,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C318695"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "10UF-0805-10V-10%_1_0"
@@ -4508,9 +4511,10 @@
 						(size 1.778 1.778)
 					)
 					(justify left top)
+					(hide yes)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:SMA-DIODE"
+			(property "Footprint" "main_board_footprints_V1.0:SMA-DIODE"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4519,7 +4523,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880424093290496"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4528,7 +4532,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" ""
+			(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-B340A_13F/C85098"
 				(at 0 0 0)
 				(effects
 					(font
@@ -4537,12 +4541,13 @@
 					(hide yes)
 				)
 			)
-			(property "ki_locked" ""
+			(property "JLCPCB Part #" "C85098"
 				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
+					(hide yes)
 				)
 			)
 			(symbol "DIODE-SCHOTTKY-B340A_1_0"
@@ -63506,7 +63511,7 @@
 		(at 337.058 61.468 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "0fd99834-9757-4fb2-a761-ffa96a165091")
@@ -64223,7 +64228,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "main_board_footprints_V1.0:0603"
+		(property "Footprint" "main_board_footprints_V1.0:0805"
 			(at 403.098 69.088 0)
 			(effects
 				(font
@@ -64232,7 +64237,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.yuden.co.jp/productdata/catalog/mlcc06_e.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588949188905717760"
 			(at 403.098 69.088 0)
 			(effects
 				(font
@@ -64241,21 +64246,21 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 403.098 69.088 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/taiyo-yuden/JMK107ABJ106MA-T/4970720"
+		(property "Description" "https://jlcpcb.com/partdetail/299824-CL21A106KOCLRNC/C318695"
 			(at 403.098 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C318695"
+			(at 403.098 69.088 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -66118,7 +66123,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://mm.digikey.com/Volume0/opasdata/d220001/medias/docus/609/CL21A106KOQNNNE_Spec.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588949188905717760"
 			(at 344.678 69.088 0)
 			(effects
 				(font
@@ -66127,15 +66132,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/299824-CL21A106KOCLRNC/C318695"
 			(at 344.678 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL21A106KOCLRNC/3888057"
+		(property "JLCPCB Part #" "C318695"
 			(at 344.678 69.088 0)
 			(effects
 				(font
@@ -67973,15 +67979,15 @@
 			)
 		)
 		(property "Value" "0.1uF"
-			(at 344.932 71.247 0)
+			(at 352.298 71.12 0)
 			(effects
 				(font
 					(size 1.778 1.778)
 				)
-				(justify right bottom)
+				(justify left bottom)
 			)
 		)
-		(property "Footprint" "main_board_footprints_V1.0:0603"
+		(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
 			(at 352.298 69.088 0)
 			(effects
 				(font
@@ -67999,15 +68005,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/-KAF21BR71H104JT/C18212337"
 			(at 352.298 69.088 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/KAM21BR71H104JT?qs=Jm2GQyTW%2Fbic6Zk4McEt6w%3D%3D"
+		(property "JLCPCB Part #" "C18212337"
 			(at 352.298 69.088 0)
 			(effects
 				(font
@@ -68226,7 +68233,7 @@
 			)
 		)
 		(property "Value" "100k"
-			(at 401.828 132.588 0)
+			(at 407.162 135.128 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -68243,7 +68250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906178609369088"
 			(at 405.638 135.128 0)
 			(effects
 				(font
@@ -68252,21 +68259,21 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 405.638 135.128 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100K/1761112"
+		(property "Description" "https://jlcpcb.com/partdetail/sei_stackpole_elec-RMCF0603JT100K/C237115"
 			(at 405.638 135.128 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C237115"
+			(at 405.638 135.128 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
@@ -68600,7 +68607,7 @@
 		(at 331.978 74.168 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(dnp no)
 		(uuid "658c950f-bab2-4d7b-95bc-97c3edc0f9ba")
@@ -69063,7 +69070,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906178609369088"
 			(at 359.918 66.548 0)
 			(effects
 				(font
@@ -69072,15 +69079,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/sei_stackpole_elec-RMCF0603JT100K/C237115"
 			(at 359.918 66.548 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603JT100K/1758100"
+		(property "JLCPCB Part #" "C237115"
 			(at 359.918 66.548 0)
 			(effects
 				(font
@@ -69606,7 +69614,7 @@
 		(dnp no)
 		(uuid "79316c06-d5ee-4cf3-92d4-4fd09a258ab0")
 		(property "Reference" "D4"
-			(at 311.658 63.5 0)
+			(at 313.436 57.404 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -69615,7 +69623,7 @@
 			)
 		)
 		(property "Value" "DIODE SCHOTTKY 40V 3A SMA"
-			(at 309.372 66.294 0)
+			(at 309.118 63.5 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -69633,7 +69641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30891.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588880424093290496"
 			(at 311.658 61.468 0)
 			(effects
 				(font
@@ -69642,16 +69650,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/DiodesIncorporated-B340A_13F/C85098"
 			(at 311.658 61.468 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/diodes-incorporated/B340A-13-F/725054?utm_adgroup=&utm_term=&utm_content=&gad_source=1"
-			(at 311.658 61.468 0)
+		(property "JLCPCB Part #" "C85098"
+			(at 312.166 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70466,7 +70475,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906178609369088"
 			(at 234.315 272.288 0)
 			(effects
 				(font
@@ -70475,21 +70484,21 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 234.315 272.288 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100K/1761112"
+		(property "Description" "https://jlcpcb.com/partdetail/sei_stackpole_elec-RMCF0603JT100K/C237115"
 			(at 234.315 272.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C237115"
+			(at 234.315 272.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -73560,7 +73569,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906178609369088"
 			(at 226.695 272.288 0)
 			(effects
 				(font
@@ -73569,21 +73578,21 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
-			(at 226.695 272.288 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RMCF0603FT100K/1761112"
+		(property "Description" "https://jlcpcb.com/partdetail/sei_stackpole_elec-RMCF0603JT100K/C237115"
 			(at 226.695 272.288 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C237115"
+			(at 226.695 272.288 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"

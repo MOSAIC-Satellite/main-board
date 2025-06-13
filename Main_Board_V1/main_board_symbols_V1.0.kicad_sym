@@ -15,7 +15,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "0.1uF"
 			(at 1.524 -2.159 0)
 			(effects
 				(font
@@ -42,7 +42,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/-KAF21BR71H104JT/C18212337"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51,12 +51,13 @@
 				(hide yes)
 			)
 		)
-		(property "ki_locked" ""
+		(property "JLCPCB Part #" "C18212337"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(symbol "0.1UF-0603-25V-(+80/-20%)_1_0"
@@ -301,7 +302,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Value" ""
+		(property "Value" "100k"
 			(at 0 -1.524 0)
 			(effects
 				(font
@@ -310,7 +311,7 @@
 				(justify top)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+		(property "Footprint" "main_board_footprints_V1.0:0603"
 			(at 0 0 0)
 			(effects
 				(font
@@ -319,7 +320,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588906178609369088"
 			(at 0 0 0)
 			(effects
 				(font
@@ -328,7 +329,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/sei_stackpole_elec-RMCF0603JT100K/C237115"
 			(at 0 0 0)
 			(effects
 				(font
@@ -337,12 +338,13 @@
 				(hide yes)
 			)
 		)
-		(property "ki_locked" ""
+		(property "JLCPCB Part #" "C237115"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(symbol "100KOHM-0603-1/10W-1%_1_0"
@@ -721,7 +723,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:0805"
+		(property "Footprint" "main_board_footprints_V1.0:0805"
 			(at 0 0 0)
 			(effects
 				(font
@@ -730,7 +732,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588949188905717760"
 			(at 0 0 0)
 			(effects
 				(font
@@ -739,7 +741,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://jlcpcb.com/partdetail/299824-CL21A106KOCLRNC/C318695"
 			(at 0 0 0)
 			(effects
 				(font
@@ -748,12 +750,13 @@
 				(hide yes)
 			)
 		)
-		(property "ki_locked" ""
+		(property "JLCPCB Part #" "C318695"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(symbol "10UF-0805-10V-10%_1_0"
