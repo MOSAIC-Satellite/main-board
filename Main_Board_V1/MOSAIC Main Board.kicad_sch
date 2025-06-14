@@ -476,7 +476,7 @@
 					(justify left bottom)
 				)
 			)
-			(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+			(property "Footprint" "main_board_footprints_V1.0:0805"
 				(at 0 0 0)
 				(effects
 					(font
@@ -68315,7 +68315,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Footprint" "SparkFun_Main_Board_Double_v22:0603"
+		(property "Footprint" "main_board_footprints_V1.0:0805"
 			(at 352.298 69.088 0)
 			(effects
 				(font
