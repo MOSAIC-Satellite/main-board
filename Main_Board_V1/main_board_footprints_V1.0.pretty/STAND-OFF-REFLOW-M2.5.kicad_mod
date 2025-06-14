@@ -6,6 +6,7 @@
 	(property "Reference" "REF**"
 		(at 0 0 0)
 		(layer "F.SilkS")
+		(hide yes)
 		(uuid "a333f323-d281-4434-906c-f7403983019e")
 		(effects
 			(font
@@ -62,6 +63,7 @@
 			)
 		)
 	)
+	(attr exclude_from_bom)
 	(fp_poly
 		(pts
 			(xy -1.712926 0.865061) (xy -1.596493 1.079186) (xy -1.449512 1.275887) (xy -1.275887 1.449513) (xy -1.079189 1.596491)

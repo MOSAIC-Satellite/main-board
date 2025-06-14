@@ -66998,6 +66998,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 154.178 216.408 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "19"
 			(uuid "5758b3ef-b938-4a4a-8744-b9250079ab60")
 		)
@@ -67204,6 +67213,15 @@
 		)
 		(property "JLCPCB Part #" "C2977809"
 			(at 301.244 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 301.244 210.693 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72131,6 +72149,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 62.738 216.408 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ccf56201-770f-45b9-99c8-83b55413bda9")
 		)
@@ -72914,6 +72941,15 @@
 		)
 		(property "JLCPCB Part #" "C2977809"
 			(at 234.823 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 234.823 210.439 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75246,6 +75282,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C2977809"
+			(at 93.218 97.028 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 93.218 97.028 0)
 			(effects
 				(font
