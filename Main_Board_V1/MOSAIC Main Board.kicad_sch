@@ -485,7 +485,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" ""
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590922676573577216"
 				(at 0 0 0)
 				(effects
 					(font
@@ -494,7 +494,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "https://jlcpcb.com/partdetail/-KAF21BR71H104JT/C18212337"
+			(property "Description" "https://jlcpcb.com/partdetail/21992639-0805CG0R1C500NT/C20617880"
 				(at 0 0 0)
 				(effects
 					(font
@@ -503,7 +503,7 @@
 					(hide yes)
 				)
 			)
-			(property "JLCPCB Part #" "C18212337"
+			(property "JLCPCB Part #" "C20617880"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53850,7 +53850,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588895674171052032"
+			(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590907288981364736"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53859,7 +53859,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "https://jlcpcb.com/partdetail/C145956"
+			(property "Description" "https://jlcpcb.com/partdetail/Lian_XinTechnology-XDWF_091004P/C7527619"
 				(at 0 0 0)
 				(effects
 					(font
@@ -53868,7 +53868,7 @@
 					(hide yes)
 				)
 			)
-			(property "JLCPCB Part #" "C145956"
+			(property "JLCPCB Part #" "C7527619"
 				(at 0 0 0)
 				(effects
 					(font
@@ -65126,6 +65126,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 243.078 134.874 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A"
 			(uuid "93793617-6aa0-4e40-97a4-b7d60cd9de66")
 		)
@@ -65275,6 +65284,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C144996"
+			(at 319.278 48.768 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "-90"
 			(at 319.278 48.768 0)
 			(effects
 				(font
@@ -65599,6 +65617,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "-90"
+			(at 250.19 285.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "88798a53-40d5-434b-b382-8a472fce1a8f")
 		)
@@ -65777,6 +65804,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C531179"
+			(at 278.638 69.088 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 278.638 69.088 0)
 			(effects
 				(font
@@ -66091,6 +66127,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 227.838 135.128 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A"
 			(uuid "7a339016-284f-44f9-8c14-cc300fa58c63")
 		)
@@ -66121,7 +66166,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "40069ff4-ce96-4861-b519-4dfff68ffecf")
-		(property "Reference" "SWDIO2"
+		(property "Reference" "SWDIO1"
 			(at 276.0206 154.5376 0)
 			(effects
 				(font
@@ -66174,7 +66219,7 @@
 		(instances
 			(project "MOSAIC Main Board"
 				(path "/52f21295-3640-410f-ad83-534235adfded"
-					(reference "SWDIO2")
+					(reference "SWDIO1")
 					(unit 1)
 				)
 			)
@@ -68342,7 +68387,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/kemet/C0603C104J4RAC7867/411096"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590922676573577216"
 			(at 352.298 69.088 0)
 			(effects
 				(font
@@ -68351,7 +68396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/-KAF21BR71H104JT/C18212337"
+		(property "Description" "https://jlcpcb.com/partdetail/21992639-0805CG0R1C500NT/C20617880"
 			(at 352.298 69.088 0)
 			(effects
 				(font
@@ -68360,7 +68405,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C18212337"
+		(property "JLCPCB Part #" "C20617880"
 			(at 352.298 69.088 0)
 			(effects
 				(font
@@ -68520,6 +68565,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C19188866"
+			(at 171.958 130.048 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 171.958 130.048 0)
 			(effects
 				(font
@@ -70004,6 +70058,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 311.658 61.468 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "C"
 			(uuid "3b018eda-0273-45ec-bc56-6470d27c8369")
 		)
@@ -71136,6 +71199,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "-90"
+			(at 423.418 132.588 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "06359574-3989-4a74-ab2f-6aa6ca4a2ca5")
 		)
@@ -71869,6 +71941,15 @@
 		)
 		(property "JLCPCB Part #" "C125099"
 			(at 212.598 135.128 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 212.598 135.128 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74186,6 +74267,15 @@
 				(hide yes)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 311.658 140.208 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "A"
 			(uuid "709f666e-606a-4220-a11e-abd22c1f0bc0")
 		)
@@ -74489,6 +74579,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C19188866"
+			(at 169.418 117.348 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 169.418 117.348 0)
 			(effects
 				(font
@@ -74904,12 +75003,13 @@
 			)
 		)
 		(property "Value" "Right Angle Qwiic Connector"
-			(at 350.266 170.688 0)
+			(at 369.443 191.262 0)
 			(effects
 				(font
 					(size 1.778 1.778)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:JST04_1MM_RA"
@@ -74921,7 +75021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588895674171052032"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590907288981364736"
 			(at 374.523 185.928 0)
 			(effects
 				(font
@@ -74930,7 +75030,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/C145956"
+		(property "Description" "https://jlcpcb.com/partdetail/Lian_XinTechnology-XDWF_091004P/C7527619"
 			(at 374.523 185.928 0)
 			(effects
 				(font
@@ -74939,7 +75039,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C145956"
+		(property "JLCPCB Part #" "C7527619"
 			(at 374.523 185.928 0)
 			(effects
 				(font
@@ -75571,6 +75671,15 @@
 			)
 		)
 		(property "JLCPCB Part #" "C19188866"
+			(at 169.418 107.188 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "FT Rotation Offset" "180"
 			(at 169.418 107.188 0)
 			(effects
 				(font

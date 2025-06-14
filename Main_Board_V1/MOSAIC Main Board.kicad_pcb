@@ -7810,6 +7810,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9177d2db-7387-4756-8001-1b3a823c39e9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/2f8881c3-74da-43a7-ad5b-c11c3a03f174")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -8333,6 +8346,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a17a2146-9069-4b3c-945a-a7ae114ae759")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dec96d83-71b1-4c1e-a81d-e74133771bf1")
 			(effects
 				(font
 					(size 1 1)
@@ -11334,6 +11360,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0d2c4911-0ff2-4073-b74a-661c2c08f697")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/da6ac35a-c6a1-4de4-8c60-cdceed811f84")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -12781,6 +12820,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "-90"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6345364c-4dae-4f4d-b60c-8d0bf914e476")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3234dda8-9c8f-4433-b733-d9ff039359a8")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -13697,7 +13749,6 @@
 				)
 			)
 		)
-		(path "/f31ba77a-2e1d-4f56-9840-10a85e88aaa3")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
 		(attr exclude_from_bom)
@@ -17098,6 +17149,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4a5e2d3a-b29a-4d08-a200-3cf10dbdce1a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e0b2b0d1-93a7-4b91-aef7-c2af2253d147")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -17961,6 +18025,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "719ca760-3f55-44e7-bbf0-04bdb7d4f720")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/3ffddfef-0138-4db5-a4a8-be04d3d69266")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -18070,7 +18147,7 @@
 				(justify top)
 			)
 		)
-		(property "Datasheet" "https://www.digikey.com/en/products/detail/kemet/C0603C104J4RAC7867/411096"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590922676573577216"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18082,7 +18159,7 @@
 				)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/-KAF21BR71H104JT/C18212337"
+		(property "Description" "https://jlcpcb.com/partdetail/21992639-0805CG0R1C500NT/C20617880"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -18094,7 +18171,7 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C18212337"
+		(property "JLCPCB Part #" "C20617880"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -18227,7 +18304,6 @@
 				)
 			)
 		)
-		(path "/a0d213c5-e7e9-42ee-ad38-943de4546a55")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
 		(attr exclude_from_bom)
@@ -18695,6 +18771,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7a3a0f61-aaf1-4166-adb7-490cf9a18322")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/382ba193-2530-4455-95a0-6aeb8c444e41")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -18974,6 +19063,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "25aa03c6-9ff8-4cca-a145-da0b88f2bd0a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "57f41cdf-0b57-495c-a093-6b277ae591f8")
 			(effects
 				(font
 					(size 1 1)
@@ -19897,6 +19999,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "df8dd8dd-df19-4c15-8796-fed55c1aa69e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/61844e1a-216b-4b5e-a236-730554d3c424")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -20178,6 +20293,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "fc860fdd-6476-43dc-a727-ef3784cac214")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "908f4110-3b2a-4fc0-bc30-8ecc8a91ba9c")
 			(effects
 				(font
 					(size 1 1)
@@ -21074,14 +21202,13 @@
 		(at 181.9 134.225)
 		(descr "<h3>SMD- 4 Pin Right Angle </h3>\n<p>Specifications:\n<ul><li>Pin count:4</li>\n<li>Pin pitch:0.1\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>CONN_04</li>\n</ul></p>")
 		(property "Reference" "J10"
-			(at 0 2.075 0)
+			(at -1.397 2.159 0)
 			(layer "F.SilkS")
 			(uuid "e8ece77b-8b7c-4828-b582-cbbc3059c14a")
 			(effects
 				(font
-					(size 0.4 0.4)
-					(thickness 0.1)
-					(bold yes)
+					(size 0.48768 0.48768)
+					(thickness 0.12192)
 				)
 				(justify left bottom)
 			)
@@ -21099,7 +21226,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588895674171052032"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590907288981364736"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21111,7 +21238,7 @@
 				)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/C145956"
+		(property "Description" "https://jlcpcb.com/partdetail/Lian_XinTechnology-XDWF_091004P/C7527619"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21123,12 +21250,12 @@
 				)
 			)
 		)
-		(property "JLCPCB Part #" "C145956"
+		(property "JLCPCB Part #" "C7527619"
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f59352ae-e2d3-4ef9-87df-ab32eebf6208")
+			(uuid "41e826ac-a1d9-4304-b82b-fcb8219206ce")
 			(effects
 				(font
 					(size 1 1)
@@ -21147,7 +21274,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "73a8eb69-3315-459c-a07f-171753dbd6f7")
+			(uuid "579233e9-86d9-467b-8852-8351dd4a7809")
 		)
 		(fp_line
 			(start -3 2)
@@ -21157,7 +21284,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9c5216f9-dbd6-4211-b53a-29885cbd9127")
+			(uuid "707bf56a-6d69-4f60-82ad-10187fa641ec")
 		)
 		(fp_line
 			(start -1.5 4.6)
@@ -21167,7 +21294,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a716e1c2-0bdf-4ce1-a746-5200ee466ab8")
+			(uuid "cedfa9c2-7d0c-45c1-93d6-ec0a4095e487")
 		)
 		(fp_line
 			(start 2.25 0.35)
@@ -21177,7 +21304,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "9b2ae635-ee6d-4b6b-b1de-c37f4d5aa217")
+			(uuid "5a1868fe-e97e-4ad6-ac0d-6cf813e8a932")
 		)
 		(fp_line
 			(start 3 0.35)
@@ -21187,7 +21314,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "bd09e646-d6da-4a76-a45e-9c8ae2b04521")
+			(uuid "31914177-416b-4939-9025-7dc79806ed06")
 		)
 		(fp_circle
 			(center -2.5 -0.3)
@@ -21198,7 +21325,7 @@
 			)
 			(fill no)
 			(layer "F.SilkS")
-			(uuid "2b202f33-9e7f-40e9-85be-b639a4529747")
+			(uuid "f593991a-e159-4665-bfbc-250dd8e54a1b")
 		)
 		(pad "1" smd roundrect
 			(at -1.5 0)
@@ -21429,7 +21556,6 @@
 				)
 			)
 		)
-		(path "/40069ff4-ce96-4861-b519-4dfff68ffecf")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
 		(attr exclude_from_bom)
@@ -21963,7 +22089,6 @@
 				)
 			)
 		)
-		(path "/59c48b28-9f47-46de-ae7f-60eed65d10de")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
 		(attr exclude_from_bom)
@@ -25700,6 +25825,19 @@
 				)
 			)
 		)
+		(property "FT Rotation Offset" "-90"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "a8e02a4a-db5a-4320-ad9b-b55fb9d4c7c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/33a203ee-129a-476f-8266-71712557d3cf")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
@@ -26004,7 +26142,6 @@
 				)
 			)
 		)
-		(path "/59d1df57-9948-4630-b6a6-b00027eaa7c5")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
 		(attr exclude_from_bom)
@@ -28136,6 +28273,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "23eac876-0711-4e25-aedf-24a03a4ed163")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "-90"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "297cd3df-8519-4277-81df-46ecff16f7c2")
 			(effects
 				(font
 					(size 1 1)

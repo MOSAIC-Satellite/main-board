@@ -33,7 +33,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590922676573577216"
 			(at 0 0 0)
 			(effects
 				(font
@@ -42,7 +42,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/-KAF21BR71H104JT/C18212337"
+		(property "Description" "https://jlcpcb.com/partdetail/21992639-0805CG0R1C500NT/C20617880"
 			(at 0 0 0)
 			(effects
 				(font
@@ -51,7 +51,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C18212337"
+		(property "JLCPCB Part #" "C20617880"
 			(at 0 0 0)
 			(effects
 				(font
@@ -53362,7 +53362,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588895674171052032"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8590907288981364736"
 			(at 0 0 0)
 			(effects
 				(font
@@ -53371,7 +53371,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/C145956"
+		(property "Description" "https://jlcpcb.com/partdetail/Lian_XinTechnology-XDWF_091004P/C7527619"
 			(at 0 0 0)
 			(effects
 				(font
@@ -53380,7 +53380,7 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C145956"
+		(property "JLCPCB Part #" "C7527619"
 			(at 0 0 0)
 			(effects
 				(font
