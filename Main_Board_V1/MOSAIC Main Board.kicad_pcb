@@ -450,6 +450,7 @@
 		(path "/b8820933-318c-45fa-99f1-db2e5440083a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -642,6 +643,7 @@
 		(path "/7f0eb9d6-5fa9-4106-b85d-c157ce5abf6b")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 2.215 1.575)
 			(end -2.215 1.575)
@@ -818,6 +820,7 @@
 		(path "/23cc5d02-0f9b-4e68-8981-05a261771e9c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -1010,6 +1013,7 @@
 		(path "/7b04e53f-d0cf-4d75-a612-91e1ff53cdfb")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -0.9 -0.625)
 			(end 0.9 -0.625)
@@ -4800,7 +4804,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -4813,22 +4817,9 @@
 				(justify mirror)
 			)
 		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 368.9 -211.8 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "940efa1e-9466-442f-80bd-cb895df2a79d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/8ffb0814-990c-4d2d-a2a6-446245ed3c5c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 -3) (xy -0.35 -3) (xy -0.35 -1.862451) (xy -0.865061 -1.712926) (xy -1.079186 -1.596493)
@@ -4991,6 +4982,7 @@
 		(path "/ef79fe9d-1de4-465c-a108-2bced3c53ad5")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 11 2.5)
 			(end 11 -1.25)
@@ -7621,6 +7613,7 @@
 		(path "/70376e87-4d80-45d1-a7d4-3f9f04a37ed2")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -7826,6 +7819,7 @@
 		(path "/2f8881c3-74da-43a7-ad5b-c11c3a03f174")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5875 -0.47625)
 			(end 1.5875 0.47625)
@@ -7972,6 +7966,7 @@
 		(path "/3282c5e4-49e2-4d73-a33e-83c174d2667d")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -8164,6 +8159,7 @@
 		(path "/fcae1148-2f56-472c-b196-30949e5feb93")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -8369,6 +8365,7 @@
 		(path "/79316c06-d5ee-4cf3-92d4-4fd09a258ab0")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 2.3 -1.45)
 			(end 2.3 -1)
@@ -8641,6 +8638,7 @@
 		(path "/1e757612-42bc-4578-9a0d-6e0d9a10603b")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5 -0.8)
 			(end 1.5 0.8)
@@ -8762,6 +8760,7 @@
 		(path "/46d9629e-6a7a-4fac-ba64-ea0cfb0f45e9")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy 0.120928 0.285552) (xy -0.179453 -0.75035) (xy 0.428509 -0.75035)
@@ -9196,6 +9195,7 @@
 		(path "/52bf2d43-5fb1-4d38-8738-69d7bbad001a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 11 2.5)
 			(end 11 -1.25)
@@ -11293,6 +11293,77 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "main_board_footprints_V1.0:PAD.03X.05"
+		(layer "F.Cu")
+		(uuid "35b26825-0083-46c3-bdb3-c233b60f8806")
+		(at 192.4 136.2)
+		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
+		(property "Reference" "GND1"
+			(at 0.04 1.52 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "3950b016-c290-4239-b04f-6a8499c5ece5")
+			(effects
+				(font
+					(size 0.6 0.6)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cf048ce9-de46-4c64-a31d-05835d3760b4")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "77ec9535-6f25-4449-8924-be1651613e5f")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6c268964-85a7-443d-a2ca-11075b906b2a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/f31ba77a-2e1d-4f56-9840-10a85e88aaa3")
+		(sheetname "/")
+		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1.27 1.27)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.5)
+			(net 3 "GND")
+			(pinfunction "1")
+			(pintype "bidirectional")
+			(solder_mask_margin 0.0635)
+			(thermal_bridge_angle 0)
+			(uuid "14863cfc-f2bb-41d3-ad14-47d4ada76c22")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "main_board_footprints_V1.0:LED-0603"
 		(layer "F.Cu")
 		(uuid "399e4a96-8e34-4a6d-b2a9-02bf69bd8576")
@@ -11376,6 +11447,7 @@
 		(path "/da6ac35a-c6a1-4de4-8c60-cdceed811f84")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5875 -0.47625)
 			(end 1.5875 0.47625)
@@ -11522,6 +11594,7 @@
 		(path "/abdf17b1-75fa-4cbc-9f43-9db42c32659c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -11714,6 +11787,7 @@
 		(path "/43be569d-b15b-45bc-8acd-54b602462160")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -11906,6 +11980,7 @@
 		(path "/6d0b506b-b897-45d6-8e6c-0e043148f705")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -12098,6 +12173,7 @@
 		(path "/e8f5d3d9-48c1-407b-9aac-fe82bdbddcaf")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -12481,6 +12557,7 @@
 		(path "/daec5dce-531d-49e7-b372-33c6e70aa182")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -12643,7 +12720,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -12651,18 +12728,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 0 0 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "ed4f241e-2679-4c55-8c2c-976fe33188e4")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -12836,6 +12901,7 @@
 		(path "/3234dda8-9c8f-4433-b733-d9ff039359a8")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.4 -0.7)
 			(end 1.4 0.1)
@@ -13218,6 +13284,7 @@
 		(path "/edc3f9c8-a54e-4fc9-a34a-04c660e72806")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -1.27 0.4294)
 			(end -1.27 -0.4294)
@@ -13491,6 +13558,7 @@
 		(path "/f5b199c4-15df-4a11-acb0-f3d65bdff58a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -13695,74 +13763,6 @@
 			(solder_mask_margin 0.0635)
 			(thermal_bridge_angle 0)
 			(uuid "1c962ca7-5750-47eb-9aed-7f7079b31637")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "main_board_footprints_V1.0:PAD.03X.05"
-		(layer "F.Cu")
-		(uuid "683a689b-0292-40be-a5f0-7d3bddb486c1")
-		(at 192.4 136.2)
-		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
-		(property "Reference" "GND"
-			(at 0.04 1.52 0)
-			(layer "F.SilkS")
-			(uuid "71f00e63-87bb-4a40-8a07-25603b9aaca6")
-			(effects
-				(font
-					(size 0.35 0.35)
-					(thickness 0.0875)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "7fffb031-8725-41cb-850c-1fa1e80fe476")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "573ab273-86a4-4df2-8691-0ab9324bbaa3")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "555b31ea-c4b9-489a-a142-fb9f21b15e69")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(sheetname "/")
-		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 1.27 1.27)
-			(layers "F.Cu" "F.Mask")
-			(roundrect_rratio 0.5)
-			(net 3 "GND")
-			(pinfunction "1")
-			(pintype "bidirectional")
-			(solder_mask_margin 0.0635)
-			(thermal_bridge_angle 0)
-			(uuid "1a8ab012-59d9-47ae-9b45-d6cace7052f9")
 		)
 		(embedded_fonts no)
 	)
@@ -14041,6 +14041,7 @@
 		(path "/2d2488b8-ad2d-4499-9541-eaab453206cf")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -14242,6 +14243,7 @@
 		(path "/ba5de78c-5e38-41b3-8bbd-fa512e923b62")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 11 2.5)
 			(end 11 -1.25)
@@ -16371,6 +16373,7 @@
 		(path "/6513b889-4a4f-491c-9e3b-a15d6ea1a040")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -16563,6 +16566,7 @@
 		(path "/d2a5a9e6-da25-4986-b3ca-1cc3e340ab5a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -16754,6 +16758,7 @@
 		(path "/1bd71bf5-8242-426c-a658-dbb595031782")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.6 1.6)
 			(end 1.3 1.6)
@@ -17083,6 +17088,77 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "main_board_footprints_V1.0:PAD.03X.05"
+		(layer "F.Cu")
+		(uuid "7e146a24-a1d2-4930-b404-e25d9200ced6")
+		(at 194 136.2)
+		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
+		(property "Reference" "3.3V1"
+			(at 0.04 1.52 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7001b6cc-02e5-44cc-8bd6-d3e51277b09f")
+			(effects
+				(font
+					(size 0.6 0.6)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec3dfcae-22d4-459f-9b93-72a3873f22d0")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ec8d0b07-dcca-4543-8972-4f1932dbf81a")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fc100e29-1d15-452b-83b3-24bc7301e437")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/59c48b28-9f47-46de-ae7f-60eed65d10de")
+		(sheetname "/")
+		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1.27 1.27)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.5)
+			(net 20 "3.3V")
+			(pinfunction "1")
+			(pintype "bidirectional")
+			(solder_mask_margin 0.0635)
+			(thermal_bridge_angle 0)
+			(uuid "9365c9cb-0618-49d3-aca5-f5048f2dc51e")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "main_board_footprints_V1.0:SWITCH_SPST_SMD_A"
 		(layer "F.Cu")
 		(uuid "7e5ff023-cda6-4cbc-952e-f5c8f414ee2e")
@@ -17165,6 +17241,7 @@
 		(path "/e0b2b0d1-93a7-4b91-aef7-c2af2253d147")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -3.477 -0.427)
 			(end -3.477 0.427)
@@ -17453,6 +17530,7 @@
 		(path "/e49efa3a-d715-4ab4-b68c-1e08b9361b6c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -17575,6 +17653,77 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "main_board_footprints_V1.0:PAD.03X.05"
+		(layer "F.Cu")
+		(uuid "8176539c-8381-421e-8447-f684bcca23e5")
+		(at 189.2 136.2)
+		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
+		(property "Reference" "VIN1"
+			(at 0.04 1.52 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "7c0979e7-7c2b-46a5-9537-bfa2b54e0aca")
+			(effects
+				(font
+					(size 0.6 0.6)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0f6defa0-58eb-46a9-9d10-db51f50503e7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "10631e0f-f97e-4aed-8a76-0560836672f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c4b2c5fc-14f1-4555-94f1-fe20af7f4c53")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/a0d213c5-e7e9-42ee-ad38-943de4546a55")
+		(sheetname "/")
+		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1.27 1.27)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.5)
+			(net 2 "VIN")
+			(pinfunction "1")
+			(pintype "bidirectional")
+			(solder_mask_margin 0.0635)
+			(thermal_bridge_angle 0)
+			(uuid "60d90569-ef11-4dd2-95ff-74ceefca0bdb")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "main_board_footprints_V1.0:0603"
 		(layer "F.Cu")
 		(uuid "8193071a-00d7-4c42-8130-a8e5ca6fbc2e")
@@ -17645,6 +17794,7 @@
 		(path "/d9de5e1e-6377-4168-a194-9108961cd355")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -18041,6 +18191,7 @@
 		(path "/3ffddfef-0138-4db5-a4a8-be04d3d69266")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5875 -0.47625)
 			(end 1.5875 0.47625)
@@ -18187,6 +18338,7 @@
 		(path "/5f9eb4c3-a872-4888-bb81-6d24a8b9919c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -1.5 -0.8)
 			(end 1.5 -0.8)
@@ -18250,74 +18402,6 @@
 			(solder_mask_margin 0.0635)
 			(thermal_bridge_angle 0)
 			(uuid "40526689-1473-4a50-87ed-c713e5e210f8")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "main_board_footprints_V1.0:PAD.03X.05"
-		(layer "F.Cu")
-		(uuid "8f976963-1ed4-487b-a42d-5bc6ab342ce6")
-		(at 189.2 136.2)
-		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
-		(property "Reference" "VIN"
-			(at 0.04 1.52 0)
-			(layer "F.SilkS")
-			(uuid "915d1d8f-1913-4566-bd25-eddbf0ef1311")
-			(effects
-				(font
-					(size 0.35 0.35)
-					(thickness 0.0875)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "73788407-8952-46fc-a1a6-170ca4fa52f5")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "d90b5762-d4d7-4e85-9a60-2b820fdc298a")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a6cc3bda-4c50-4c56-88fd-94e7c2bb8d5f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(sheetname "/")
-		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 1.27 1.27)
-			(layers "F.Cu" "F.Mask")
-			(roundrect_rratio 0.5)
-			(net 2 "VIN")
-			(pinfunction "1")
-			(pintype "bidirectional")
-			(solder_mask_margin 0.0635)
-			(thermal_bridge_angle 0)
-			(uuid "ebc683f8-8e04-429c-98f0-a12532fbadf5")
 		)
 		(embedded_fonts no)
 	)
@@ -18391,6 +18475,7 @@
 		(path "/b9c41a29-eeaa-458d-9bc7-d025c0dcbc28")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -18583,6 +18668,7 @@
 		(path "/8c330809-c65e-4265-9149-012672055ac9")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -18787,6 +18873,7 @@
 		(path "/382ba193-2530-4455-95a0-6aeb8c444e41")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.4224 -0.4294)
 			(end 1.4224 0.4294)
@@ -19086,6 +19173,7 @@
 		(path "/f26a499d-1191-4833-bad6-be34356d20c0")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -3.477 -0.427)
 			(end -3.477 0.427)
@@ -19374,6 +19462,7 @@
 		(path "/890a07ba-66aa-4a21-ba12-5f6170f7c811")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -19513,7 +19602,7 @@
 				(justify right top)
 			)
 		)
-		(property "Value" "BATT JST-2-SMD"
+		(property "Value" "CONN_JST_BATT"
 			(at -1.651 -0.635 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19538,7 +19627,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.mouser.com/ProductDetail/485-1769"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19550,22 +19639,9 @@
 				)
 			)
 		)
-		(property "Source" "https://www.mouser.com/ProductDetail/Adafruit/1769?qs=GURawfaeGuBbgoGtf2XstA%3D%3D"
-			(at 59.71 302.65 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3e9bae40-b54c-4179-a2e2-089e542411c0")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(path "/03d7427b-f5c9-49be-88d0-28bd84d8d565")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 4 4.5)
 			(end 4 1)
@@ -20015,6 +20091,7 @@
 		(path "/61844e1a-216b-4b5e-a236-730554d3c424")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -3.477 -0.427)
 			(end -3.477 0.427)
@@ -20316,6 +20393,7 @@
 		(path "/a84931f9-7eea-40f0-a2f5-3e2bc1a36ab1")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5875 -0.47625)
 			(end 1.5875 0.47625)
@@ -20875,6 +20953,7 @@
 		(path "/be53c23c-8499-4716-bf9e-4ad813b71972")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.54 2.54)
 			(end -1.54 2.54)
@@ -21086,7 +21165,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -21094,18 +21173,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at -17 239 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e4b1fb4f-f7c4-4cce-a668-eecb07d5bee9")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -21266,6 +21333,7 @@
 		(path "/e884142e-6056-4bef-ada2-ebd34594dd73")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -3 0.35)
 			(end -2.25 0.35)
@@ -21502,74 +21570,6 @@
 			(solder_mask_margin 0.0635)
 			(thermal_bridge_angle 0)
 			(uuid "e853ed1b-d8eb-4d86-adcd-c7e4a2d7cf30")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "main_board_footprints_V1.0:PAD.03X.05"
-		(layer "F.Cu")
-		(uuid "be915234-bb06-49c7-b75e-5292c7cef463")
-		(at 190.8 136.2)
-		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
-		(property "Reference" "SWDIO"
-			(at 0.04 1.52 0)
-			(layer "F.SilkS")
-			(uuid "d5e7b5e0-b297-492c-9544-c2cfef7ee0cf")
-			(effects
-				(font
-					(size 0.35 0.35)
-					(thickness 0.0875)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "e2b33087-92d8-4365-aac3-bd158e4e7372")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "85aaf000-e931-4b03-8643-1d6d999a76dc")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "2374d245-b363-484b-ac5a-633b040d3f08")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(sheetname "/")
-		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 1.27 1.27)
-			(layers "F.Cu" "F.Mask")
-			(roundrect_rratio 0.5)
-			(net 63 "/SWDIO")
-			(pinfunction "1")
-			(pintype "bidirectional")
-			(solder_mask_margin 0.0635)
-			(thermal_bridge_angle 0)
-			(uuid "37499e0a-150a-4daa-b75e-660771143ef3")
 		)
 		(embedded_fonts no)
 	)
@@ -21849,6 +21849,7 @@
 		(path "/75c9e1a6-792e-4289-883a-77918970b19a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -3.218 -1.33)
 			(end -3.218 -0.68)
@@ -22035,74 +22036,6 @@
 			(solder_mask_margin 0.0635)
 			(thermal_bridge_angle 0)
 			(uuid "eb6db476-28f9-45dc-86fd-45aebae90f14")
-		)
-		(embedded_fonts no)
-	)
-	(footprint "main_board_footprints_V1.0:PAD.03X.05"
-		(layer "F.Cu")
-		(uuid "c85e28f4-5e9a-4f3d-954e-33def4058044")
-		(at 194 136.2)
-		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
-		(property "Reference" "3.3V"
-			(at 0.04 1.52 0)
-			(layer "F.SilkS")
-			(uuid "d662ea53-a40c-42a5-816a-6a1698857f1c")
-			(effects
-				(font
-					(size 0.35 0.35)
-					(thickness 0.0875)
-				)
-			)
-		)
-		(property "Value" "~"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(uuid "5ce789b9-4937-4067-bdf5-fa015a23355e")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "59b5f12d-2500-4675-bf6b-3429ec4bd307")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "152e774c-a68b-4d09-b2e3-324ec68aee15")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(sheetname "/")
-		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
-		(pad "1" smd roundrect
-			(at 0 0)
-			(size 1.27 1.27)
-			(layers "F.Cu" "F.Mask")
-			(roundrect_rratio 0.5)
-			(net 20 "3.3V")
-			(pinfunction "1")
-			(pintype "bidirectional")
-			(solder_mask_margin 0.0635)
-			(thermal_bridge_angle 0)
-			(uuid "9286b830-5721-4a1c-8cdf-bfb13f9deb75")
 		)
 		(embedded_fonts no)
 	)
@@ -25759,6 +25692,77 @@
 		)
 		(embedded_fonts no)
 	)
+	(footprint "main_board_footprints_V1.0:PAD.03X.05"
+		(layer "F.Cu")
+		(uuid "d44727b3-653a-4361-9a3d-5268690724e2")
+		(at 190.8 136.2)
+		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
+		(property "Reference" "SWDIO1"
+			(at 0.04 1.52 0)
+			(layer "F.SilkS")
+			(hide yes)
+			(uuid "6be1a5cd-f17b-4452-aefe-2bc65fafe9ed")
+			(effects
+				(font
+					(size 0.6 0.6)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Value" "~"
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "3731b3af-a6d1-4f3d-be19-5ce299fa4129")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "71e31ac5-5eb7-4938-8735-b2cfa7f4ad5d")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 0 0 0)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "331f6013-d4f6-484a-af39-420d95369432")
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(path "/40069ff4-ce96-4861-b519-4dfff68ffecf")
+		(sheetname "/")
+		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
+		(pad "1" smd roundrect
+			(at 0 0)
+			(size 1.27 1.27)
+			(layers "F.Cu" "F.Mask")
+			(roundrect_rratio 0.5)
+			(net 63 "/SWDIO")
+			(pinfunction "1")
+			(pintype "bidirectional")
+			(solder_mask_margin 0.0635)
+			(thermal_bridge_angle 0)
+			(uuid "b6c3bd0a-e9c5-49e7-a133-535caa360899")
+		)
+		(embedded_fonts no)
+	)
 	(footprint "main_board_footprints_V1.0:TDFN-14-1EP_3x3mm_P0.4mm_EP1.78x2.35mm"
 		(layer "F.Cu")
 		(uuid "d590bdb0-dc02-4993-9b5a-89244a41274b")
@@ -25841,7 +25845,7 @@
 		(path "/33a203ee-129a-476f-8266-71712557d3cf")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -1.5 -1.61)
 			(end 1.5 -1.61)
@@ -26093,24 +26097,26 @@
 	)
 	(footprint "main_board_footprints_V1.0:PAD.03X.05"
 		(layer "F.Cu")
-		(uuid "d6870e0f-10e3-4681-b984-e7b23bbacc13")
+		(uuid "da9aac64-fda8-41ee-acb2-26a171ff6c1a")
 		(at 187.6 136.2)
 		(descr "<h3>Electrically Conductive Pad 0.05\" Circle</h3>\nUsed as a test point connection for pogo pins or other debugging tools. \n<p>Specifications:\n<li>Area: 0.05\" x 0.05\"</li>\n</ul></p>\n<p>Example device(s):\n<ul><li>TEST_POINT</li>\n</ul></p>")
-		(property "Reference" "V_BATT"
+		(property "Reference" "V_BATT1"
 			(at 0.04 1.52 0)
 			(layer "F.SilkS")
-			(uuid "09044da9-3f46-426c-841a-001b046a4081")
+			(hide yes)
+			(uuid "6e296adb-43de-44b3-acd5-917ec113df15")
 			(effects
 				(font
-					(size 0.35 0.35)
-					(thickness 0.0875)
+					(size 0.6 0.6)
+					(thickness 0.15)
 				)
 			)
 		)
 		(property "Value" "~"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "2f490724-4011-4f03-ba39-fd44761d5361")
+			(hide yes)
+			(uuid "968da35c-e095-4667-83b7-1787b26378ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26122,7 +26128,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4909d34b-f336-41a7-a837-63733b523626")
+			(uuid "c38ff4cf-d887-4fbd-a005-7f77d7b3e165")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26134,7 +26140,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7cf7df24-57d3-45ef-9c68-b34dda9f21aa")
+			(uuid "59fe1f38-a9f3-41de-b147-936e95aa8efc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26142,6 +26148,7 @@
 				)
 			)
 		)
+		(path "/59d1df57-9948-4630-b6a6-b00027eaa7c5")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
 		(attr exclude_from_bom)
@@ -26155,7 +26162,7 @@
 			(pintype "bidirectional")
 			(solder_mask_margin 0.0635)
 			(thermal_bridge_angle 0)
-			(uuid "750d7301-cb31-4c46-b3cd-f87c38e6a1d8")
+			(uuid "6f8ce152-2bd7-4339-85cd-8d421fd304a7")
 		)
 		(embedded_fonts no)
 	)
@@ -26229,6 +26236,7 @@
 		(path "/47a7a336-94b4-473f-af1b-ab993107da7a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -26520,7 +26528,7 @@
 		(path "/0fa006c1-3052-48dd-ab78-20e603422585")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start -4.5974 0.015141)
 			(end -4.5974 -1.639192)
@@ -27293,6 +27301,7 @@
 		(path "/43d9e3a5-4ea9-4189-9f34-e8ffd97d853e")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -1.5 -0.8)
 			(end 1.5 -0.8)
@@ -27429,6 +27438,7 @@
 		(path "/6f5bb0c8-6ac3-4ce6-b03d-7c3cf26f2c97")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.54 2.54)
 			(end -1.54 2.54)
@@ -27643,7 +27653,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.mouser.com/ProductDetail/Switchcraft/35RAPC4BH3?qs=I3kMT7EEIOWFGyk5rynRAQ%3D%3D"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -27655,23 +27665,11 @@
 				)
 			)
 		)
-		(property "Source" "https://www.mouser.com/ProductDetail/Switchcraft/35RAPC4BH3?qs=I3kMT7EEIOWFGyk5rynRAQ%3D%3D"
-			(at 351.38 264.4 90)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "0d0f83e1-755a-4989-a044-3493f76e089c")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
 		(property ki_fp_filters "CONN_35RAPC4BH3_SWC")
 		(path "/108f3370-ca87-4c44-988f-49ce783efd6d")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(fp_line
 			(start 2.1336 -5.8801)
 			(end 2.1336 5.8801)
@@ -28091,6 +28089,7 @@
 		(path "/6301170d-b9cd-467f-a5ef-390221fd76db")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -28296,6 +28295,7 @@
 		(path "/9a01980f-e710-4766-8aae-df65265f64b3")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start 1.27 -0.4294)
 			(end 1.27 0.4294)
@@ -28554,6 +28554,7 @@
 		(path "/292bb57b-d0f8-4675-a1f9-b496d4878bfd")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy 0.610795 2.402543) (xy 0.821484 2.341478) (xy 1.07475 2.236589) (xy 1.266927 2.130808) (xy 2.159919 2.858947)
@@ -28665,6 +28666,7 @@
 		(path "/abfce0f4-c4f4-4c7b-a39c-2affca09021a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -19.05 2.275)
 			(end -19.05 63.25)
@@ -30607,7 +30609,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30615,19 +30617,6 @@
 			(effects
 				(font
 					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-				(justify mirror)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 0 0 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "17891169-d919-44fc-a773-0fd51ee0b4d5")
-			(effects
-				(font
-					(size 1 1)
 					(thickness 0.15)
 				)
 				(justify mirror)
@@ -30760,7 +30749,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -30770,19 +30759,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 216.5 211.7 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "1c43d51e-be25-41fe-8bed-c3ebc0dfc681")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
 			)
 		)
 		(path "/33240ae9-7167-4a77-a9e5-69c37525e258")
@@ -30953,6 +30929,7 @@
 		(path "/50b787fb-ff40-4e60-b40d-d33189db4911")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_line
 			(start -19.05 2.275)
 			(end -19.05 63.25)
@@ -32894,7 +32871,7 @@
 				)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
@@ -32904,19 +32881,6 @@
 					(size 1.27 1.27)
 					(thickness 0.15)
 				)
-			)
-		)
-		(property "Source" "https://www.digikey.com/en/products/detail/w%C3%BCrth-elektronik/9774025151R/5320621"
-			(at 292.7 211.8 0)
-			(layer "B.Fab")
-			(hide yes)
-			(uuid "26d34c06-c34e-4049-b902-ea12e8902d9b")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-				(justify mirror)
 			)
 		)
 		(path "/6176091e-6708-444f-ba8e-44422b0af30f")
@@ -33386,6 +33350,19 @@
 		(layer "User.4")
 		(uuid "e99c4b97-2557-435a-b9b8-18d86bad785c")
 	)
+	(gr_text "VIN"
+		(at 188.7 137.9 0)
+		(layer "F.SilkS")
+		(uuid "0725a7c8-77cf-49f4-bda3-f8c4abbe7046")
+		(effects
+			(font
+				(size 0.35 0.35)
+				(thickness 0.0875)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "~{CS1}-PROCESSOR"
 		(at 225.8 66 270)
 		(layer "F.SilkS")
@@ -33394,6 +33371,19 @@
 			(font
 				(size 0.4 0.4)
 				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "V_BATT"
+		(at 186.7 137.9 0)
+		(layer "F.SilkS")
+		(uuid "2433acd2-a375-4e0d-87c7-92d02831c45a")
+		(effects
+			(font
+				(size 0.35 0.35)
+				(thickness 0.0875)
 				(bold yes)
 			)
 			(justify left bottom)
@@ -33409,6 +33399,19 @@
 				(thickness 0.12192)
 			)
 			(justify bottom)
+		)
+	)
+	(gr_text "GND"
+		(at 191.8 137.9 0)
+		(layer "F.SilkS")
+		(uuid "262b4793-706b-4667-89b1-a2717965ef8f")
+		(effects
+			(font
+				(size 0.35 0.35)
+				(thickness 0.0875)
+				(bold yes)
+			)
+			(justify left bottom)
 		)
 	)
 	(gr_text "5V MEAS"
@@ -33458,6 +33461,19 @@
 			(font
 				(size 0.48768 0.48768)
 				(thickness 0.12192)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "SWDIO"
+		(at 189.9 137.9 0)
+		(layer "F.SilkS")
+		(uuid "49c36dbf-6e17-48ad-9c44-fef24fc9b068")
+		(effects
+			(font
+				(size 0.35 0.35)
+				(thickness 0.0875)
+				(bold yes)
 			)
 			(justify left bottom)
 		)
@@ -33566,6 +33582,19 @@
 			(font
 				(size 0.4 0.4)
 				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "3.3V"
+		(at 193.4 137.9 0)
+		(layer "F.SilkS")
+		(uuid "6e872235-00fa-45ec-a074-9db38d113c31")
+		(effects
+			(font
+				(size 0.35 0.35)
+				(thickness 0.0875)
 				(bold yes)
 			)
 			(justify left bottom)
