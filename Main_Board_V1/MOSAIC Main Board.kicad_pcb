@@ -450,7 +450,6 @@
 		(path "/b8820933-318c-45fa-99f1-db2e5440083a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -643,7 +642,6 @@
 		(path "/7f0eb9d6-5fa9-4106-b85d-c157ce5abf6b")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 2.215 1.575)
 			(end -2.215 1.575)
@@ -820,7 +818,6 @@
 		(path "/23cc5d02-0f9b-4e68-8981-05a261771e9c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -1013,7 +1010,6 @@
 		(path "/7b04e53f-d0cf-4d75-a612-91e1ff53cdfb")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -0.9 -0.625)
 			(end 0.9 -0.625)
@@ -4820,6 +4816,7 @@
 		(path "/8ffb0814-990c-4d2d-a2a6-446245ed3c5c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 -3) (xy -0.35 -3) (xy -0.35 -1.862451) (xy -0.865061 -1.712926) (xy -1.079186 -1.596493)
@@ -4910,7 +4907,7 @@
 		(property "Reference" "J2"
 			(at 0 -0.635 0)
 			(layer "F.SilkS")
-			(uuid "0b592220-da77-4df6-9a25-75428f140d9d")
+			(uuid "851522e3-a7db-4c98-8ba0-f484c8f68a5b")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -4921,7 +4918,7 @@
 		(property "Value" "CONN E"
 			(at 0 0.635 0)
 			(layer "F.Fab")
-			(uuid "a5e97933-3ea7-41a6-bf3a-c64d0378fd6d")
+			(uuid "83ada5a0-5822-458c-9bef-32431b5fbf80")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -4933,7 +4930,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a803a052-7335-4004-b4ad-819d463eb69d")
+			(uuid "e79bf03c-6c5a-4e88-a879-196155c0b22a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4945,7 +4942,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fa5183d1-7353-47ee-bc5b-ec45ff2cd5c4")
+			(uuid "204105c9-7c32-46e2-b231-feea34784f54")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7612,7 +7609,6 @@
 		(path "/70376e87-4d80-45d1-a7d4-3f9f04a37ed2")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -7818,7 +7814,6 @@
 		(path "/2f8881c3-74da-43a7-ad5b-c11c3a03f174")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5875 -0.47625)
 			(end 1.5875 0.47625)
@@ -7965,7 +7960,6 @@
 		(path "/3282c5e4-49e2-4d73-a33e-83c174d2667d")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -8158,7 +8152,6 @@
 		(path "/fcae1148-2f56-472c-b196-30949e5feb93")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -8364,7 +8357,6 @@
 		(path "/79316c06-d5ee-4cf3-92d4-4fd09a258ab0")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 2.3 -1.45)
 			(end 2.3 -1)
@@ -8637,7 +8629,6 @@
 		(path "/1e757612-42bc-4578-9a0d-6e0d9a10603b")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5 -0.8)
 			(end 1.5 0.8)
@@ -9122,7 +9113,7 @@
 		(property "Reference" "J13"
 			(at 0 -0.635 180)
 			(layer "F.SilkS")
-			(uuid "36a3ee86-a2ca-43a0-89d6-7d474d2c55a3")
+			(uuid "af5fec15-beda-4bb3-a1fa-1d0bd52f773a")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -9133,7 +9124,7 @@
 		(property "Value" "CONN E"
 			(at 0 0.635 180)
 			(layer "F.Fab")
-			(uuid "ad581e40-90e7-4074-90f6-b86cfe974020")
+			(uuid "9cf371dd-750b-45a0-b43a-1971920e1c6f")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -9145,7 +9136,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fb6451b0-0cb0-468c-8cd3-d058319f2cd1")
+			(uuid "81d26343-ca5e-4e34-858b-66b7968d4ccd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9157,7 +9148,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c64b4392-58f3-4cd7-9df8-cbc1d73ce8cb")
+			(uuid "80120a43-baef-46ff-a66e-14163d2a1263")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11445,7 +11436,6 @@
 		(path "/da6ac35a-c6a1-4de4-8c60-cdceed811f84")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5875 -0.47625)
 			(end 1.5875 0.47625)
@@ -11592,7 +11582,6 @@
 		(path "/abdf17b1-75fa-4cbc-9f43-9db42c32659c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -11785,7 +11774,6 @@
 		(path "/43be569d-b15b-45bc-8acd-54b602462160")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -11978,7 +11966,6 @@
 		(path "/6d0b506b-b897-45d6-8e6c-0e043148f705")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -12171,7 +12158,6 @@
 		(path "/e8f5d3d9-48c1-407b-9aac-fe82bdbddcaf")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -12555,7 +12541,6 @@
 		(path "/daec5dce-531d-49e7-b372-33c6e70aa182")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -12733,6 +12718,7 @@
 		(path "/a3ece3e4-98a9-4d3b-9e63-d62938255c35")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -1.712926 0.865061) (xy -1.596493 1.079186) (xy -1.449512 1.275887) (xy -1.275887 1.449513)
@@ -12899,7 +12885,6 @@
 		(path "/3234dda8-9c8f-4433-b733-d9ff039359a8")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.4 -0.7)
 			(end 1.4 0.1)
@@ -13282,7 +13267,6 @@
 		(path "/edc3f9c8-a54e-4fc9-a34a-04c660e72806")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -1.27 0.4294)
 			(end -1.27 -0.4294)
@@ -13556,7 +13540,6 @@
 		(path "/f5b199c4-15df-4a11-acb0-f3d65bdff58a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -14039,7 +14022,6 @@
 		(path "/2d2488b8-ad2d-4499-9541-eaab453206cf")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -14169,7 +14151,7 @@
 		(property "Reference" "J12"
 			(at 0 -0.635 180)
 			(layer "F.SilkS")
-			(uuid "a2827fb3-b946-414c-aeb1-63392528fb9e")
+			(uuid "5c83b8c8-8d9a-4e3d-b610-e15d27e842ae")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -14180,7 +14162,7 @@
 		(property "Value" "CONN E"
 			(at 0 0.635 180)
 			(layer "F.Fab")
-			(uuid "573dfc22-a021-40b7-a09f-39f7b9101ca9")
+			(uuid "34d29fe1-ada7-4045-a68b-89ff143b329a")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -14192,7 +14174,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1e36c5d0-49fd-44e2-ab6c-dadc8f758359")
+			(uuid "2748b52f-7ee8-45dc-a593-6773afce87bd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14204,7 +14186,7 @@
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "91b136c8-7ed8-4ef4-98e2-70a322d24166")
+			(uuid "8df4082d-90f3-4824-b5af-7d725c7a479e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16370,7 +16352,6 @@
 		(path "/6513b889-4a4f-491c-9e3b-a15d6ea1a040")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -16563,7 +16544,6 @@
 		(path "/d2a5a9e6-da25-4986-b3ca-1cc3e340ab5a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -16693,7 +16673,7 @@
 		(property "Reference" "U4"
 			(at -1.88167 0.052187 90)
 			(layer "F.SilkS")
-			(uuid "7e734e49-186e-40a6-9ab1-305e68e87d66")
+			(uuid "33f453fc-c60d-475a-b0bc-f7ba53afbe02")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -16706,7 +16686,7 @@
 			(at 1.7 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa4569b7-533c-45f3-893d-05515129f3ba")
+			(uuid "79f5fc00-a1be-42f2-bc9b-c4a1db6a956e")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -16719,7 +16699,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e2e0a41-ef91-452a-9434-76ae5cb1ed97")
+			(uuid "bb829493-2f36-4428-ab75-33e5123f622d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16731,7 +16711,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "75ed6ba4-f50c-4895-b8e9-da50b852c142")
+			(uuid "b293ff77-30f9-429b-989b-b72a9c810362")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16755,7 +16735,6 @@
 		(path "/1bd71bf5-8242-426c-a658-dbb595031782")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.6 1.6)
 			(end 1.3 1.6)
@@ -17164,7 +17143,7 @@
 		(property "Reference" "S2"
 			(at 0.75 2.01825 0)
 			(layer "F.SilkS")
-			(uuid "d1b4f83a-a0fc-43a6-a830-05c7d603a38b")
+			(uuid "a5eb6da0-8ba6-400a-b28c-31b261ba0ed8")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -17176,7 +17155,7 @@
 		(property "Value" "switch"
 			(at 0 -1.397 0)
 			(layer "F.Fab")
-			(uuid "2891d357-639d-435a-b1a8-2dd79c6e1fe8")
+			(uuid "983207fd-efcb-47f2-9e50-d3b8f734bf35")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -17189,7 +17168,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a9b93dc1-4f8b-4fb8-b0b5-956ededced63")
+			(uuid "6338ed8c-73e9-45a8-95af-4c03e4e5df6d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17201,7 +17180,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fc544199-d796-42ab-816c-9ac47226ec6c")
+			(uuid "0cfa33b0-156a-40ef-ab62-853a088784f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17235,10 +17214,22 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,-1.28"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "ac45b668-eeef-49eb-8ba8-45787f9e57aa")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/e0b2b0d1-93a7-4b91-aef7-c2af2253d147")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -3.477 -0.427)
 			(end -3.477 0.427)
@@ -17527,7 +17518,6 @@
 		(path "/e49efa3a-d715-4ab4-b68c-1e08b9361b6c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -17791,7 +17781,6 @@
 		(path "/d9de5e1e-6377-4168-a194-9108961cd355")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -18188,7 +18177,6 @@
 		(path "/3ffddfef-0138-4db5-a4a8-be04d3d69266")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5875 -0.47625)
 			(end 1.5875 0.47625)
@@ -18335,7 +18323,6 @@
 		(path "/5f9eb4c3-a872-4888-bb81-6d24a8b9919c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -1.5 -0.8)
 			(end 1.5 -0.8)
@@ -18472,7 +18459,6 @@
 		(path "/b9c41a29-eeaa-458d-9bc7-d025c0dcbc28")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -18665,7 +18651,6 @@
 		(path "/8c330809-c65e-4265-9149-012672055ac9")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -18870,7 +18855,6 @@
 		(path "/382ba193-2530-4455-95a0-6aeb8c444e41")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.4224 -0.4294)
 			(end 1.4224 0.4294)
@@ -19096,7 +19080,7 @@
 		(property "Reference" "S1"
 			(at 0.75 2.01825 0)
 			(layer "F.SilkS")
-			(uuid "78ef1888-d685-464d-bf10-ab98137be15c")
+			(uuid "e73eafe1-33b4-461b-874b-ba437d3af6a3")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -19108,7 +19092,7 @@
 		(property "Value" "switch"
 			(at 0 -1.397 0)
 			(layer "F.Fab")
-			(uuid "260868d4-888c-448d-8835-ca81981f7c62")
+			(uuid "8f45f4f6-788b-4ee3-8520-3774ef5ed65b")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -19121,7 +19105,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f24e9029-75ec-4397-b584-d9e10b9cdf40")
+			(uuid "bb870677-2d75-4212-8d8d-b7121b5cb6fa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19133,7 +19117,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a6c6192c-b35d-4e32-831a-28cb20f52a27")
+			(uuid "3ff8a766-2bfa-4e03-a505-802830c8f625")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19167,10 +19151,22 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,-1.28"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4d8fdd93-bb3a-4c1e-80d7-f462b1cce01e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/f26a499d-1191-4833-bad6-be34356d20c0")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -3.477 -0.427)
 			(end -3.477 0.427)
@@ -19459,7 +19455,6 @@
 		(path "/890a07ba-66aa-4a21-ba12-5f6170f7c811")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -19612,7 +19607,7 @@
 				(justify right top)
 			)
 		)
-		(property "Datasheet" "https://www.sparkfun.com/datasheets/Prototyping/Connectors/JST-Horizontal.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893957006757888"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19624,7 +19619,7 @@
 				)
 			)
 		)
-		(property "Description" "https://www.mouser.com/ProductDetail/485-1769"
+		(property "Description" "https://jlcpcb.com/partdetail/48652-PH_2PSurface_Mount_RightAngle/C47647"
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -19632,6 +19627,32 @@
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "JLCPCB Part #" "C47647"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f46a03cc-15a3-4836-8835-19a6518716ed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "FT Rotation Offset" "180"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6db9936a-06dc-4c6d-92ae-9f90f8bb8493")
+			(effects
+				(font
+					(size 1 1)
 					(thickness 0.15)
 				)
 			)
@@ -20014,7 +20035,7 @@
 		(property "Reference" "S3"
 			(at 0.75 2.01825 0)
 			(layer "F.SilkS")
-			(uuid "351b8d5a-373e-4bf4-8ba0-690d682e0cbe")
+			(uuid "5569413d-8983-4899-8ebf-9b495ca31ec6")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -20026,7 +20047,7 @@
 		(property "Value" "switch"
 			(at 0 -1.397 0)
 			(layer "F.Fab")
-			(uuid "4a352ff5-9d31-4c01-ae9b-342451fcf7df")
+			(uuid "3d604ab2-af02-4312-8133-c6d9ddb7c429")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -20039,7 +20060,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5ea389f0-7508-466e-b6f1-0dceafec8711")
+			(uuid "3b91cfb5-b597-47d6-ae4f-0f05ef9b4cfa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20051,7 +20072,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "456ad7ae-336b-4498-81bd-a0439e131471")
+			(uuid "d7d7d7a1-0f23-423e-ad1a-53752d4c71f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20085,10 +20106,22 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,-1.28"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bacfdd02-802b-4a31-b97d-9776b0626ee9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/61844e1a-216b-4b5e-a236-730554d3c424")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -3.477 -0.427)
 			(end -3.477 0.427)
@@ -20390,7 +20423,6 @@
 		(path "/a84931f9-7eea-40f0-a2f5-3e2bc1a36ab1")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.5875 -0.47625)
 			(end 1.5875 0.47625)
@@ -20950,7 +20982,6 @@
 		(path "/be53c23c-8499-4716-bf9e-4ad813b71972")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.54 2.54)
 			(end -1.54 2.54)
@@ -21177,6 +21208,7 @@
 		(path "/87a7b01a-8987-4337-9d66-8852a93b4df6")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -1.712926 0.865061) (xy -1.596493 1.079186) (xy -1.449512 1.275887) (xy -1.275887 1.449513)
@@ -21268,7 +21300,7 @@
 		(property "Reference" "J10"
 			(at -1.397 2.159 0)
 			(layer "F.SilkS")
-			(uuid "e8ece77b-8b7c-4828-b582-cbbc3059c14a")
+			(uuid "9952623b-df42-4c31-be6b-0db39ebb4c7b")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -21281,7 +21313,7 @@
 			(at -1.651 3.302 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0aa2ec2b-21dd-4f94-95df-6f78e0e8b9ee")
+			(uuid "fbf94747-df6c-4fa4-910e-0f355db25de9")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -21294,7 +21326,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9b961007-774a-48ba-acb4-b19220c77f5c")
+			(uuid "882357d9-d030-4dd0-b281-2ae1c19e374c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21306,7 +21338,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8e98b877-c3d6-48c9-8f94-6616365530e7")
+			(uuid "ae5a509b-e9ec-426b-b5ba-3d532fca8ea1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21330,7 +21362,6 @@
 		(path "/e884142e-6056-4bef-ada2-ebd34594dd73")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -3 0.35)
 			(end -2.25 0.35)
@@ -21783,7 +21814,7 @@
 		(property "Reference" "J11"
 			(at 0.017 -2.4834 0)
 			(layer "F.SilkS")
-			(uuid "85597cb8-72d7-4a57-9b48-8d57a62786da")
+			(uuid "760a7228-cc96-4dd0-b2f6-0a5e9b2b26e3")
 			(effects
 				(font
 					(size 0.4 0.4)
@@ -21797,7 +21828,7 @@
 			(at 0.016 1.296331 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd94f3f3-e4b4-459c-ac00-a03aefad67f0")
+			(uuid "f2d3e7ae-7cf6-46f2-b22d-7a2169bfd05b")
 			(effects
 				(font
 					(size 0.560832 0.560832)
@@ -21810,7 +21841,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4e562ea1-f757-426e-aacf-bceece0f59c7")
+			(uuid "83ef11be-7a80-4ac9-a780-4b434e6d5148")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21822,7 +21853,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7cf32759-1a76-4a4c-b70b-ea48b2dea9d1")
+			(uuid "b25a264f-8726-4042-af5b-040140dda732")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21846,7 +21877,6 @@
 		(path "/75c9e1a6-792e-4289-883a-77918970b19a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -3.218 -1.33)
 			(end -3.218 -0.68)
@@ -25769,7 +25799,7 @@
 		(property "Reference" "U1"
 			(at 3.3 1.27 0)
 			(layer "F.SilkS")
-			(uuid "32f1cb8f-5104-467f-ad7e-512aa59262cc")
+			(uuid "71cbd4cf-d050-45c1-afe3-2fa8e1468174")
 			(effects
 				(font
 					(size 1 1)
@@ -25781,7 +25811,7 @@
 			(at 0 2.45 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f7da03f7-e440-47af-89ac-3090db9f4ab6")
+			(uuid "f9aae42b-fe8e-4b17-9e60-7faf67a78286")
 			(effects
 				(font
 					(size 1 1)
@@ -25793,7 +25823,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "17477d6d-f8a4-4275-9236-ec6583ad8b69")
+			(uuid "a7950287-1ff8-4249-aa90-29441e7d3eb5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25805,7 +25835,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c3b1ea25-695a-4008-9fcb-2330a467f08c")
+			(uuid "bbdcbc2c-f855-4e1b-b8f2-e43f0ca870bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25842,7 +25872,7 @@
 		(path "/33a203ee-129a-476f-8266-71712557d3cf")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(fp_line
 			(start -1.5 -1.61)
 			(end 1.5 -1.61)
@@ -26233,7 +26263,6 @@
 		(path "/47a7a336-94b4-473f-af1b-ab993107da7a")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -26452,7 +26481,7 @@
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.SilkS")
-			(uuid "2cf7d081-421d-477a-a421-5eba57ab9bfe")
+			(uuid "e276af63-5c8c-4944-95b4-78896463a729")
 			(effects
 				(font
 					(size 1 1)
@@ -26465,7 +26494,7 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d44f8c4b-b1af-4970-860e-1cc61349e8fd")
+			(uuid "518eac13-5b36-4ad0-864a-13c4ee7bfb46")
 			(effects
 				(font
 					(size 1 1)
@@ -26477,7 +26506,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd8cd474-9e2a-454a-879f-2065ee6280cf")
+			(uuid "f8673b8d-ef8b-40f9-b3d2-908e5f585af0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26489,7 +26518,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "09943b9c-77c2-4b1a-9d18-c66618314d67")
+			(uuid "1987aeed-42c2-422a-a916-860bb74b12cc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26522,10 +26551,23 @@
 				)
 			)
 		)
+		(property "FT Position Offset" "0,1.24"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7fb6d4fb-de47-422b-a460-1d6e1e27a2e1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/0fa006c1-3052-48dd-ab78-20e603422585")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(fp_line
 			(start -4.5974 0.015141)
 			(end -4.5974 -1.639192)
@@ -27298,7 +27340,6 @@
 		(path "/43d9e3a5-4ea9-4189-9f34-e8ffd97d853e")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start -1.5 -0.8)
 			(end 1.5 -0.8)
@@ -27435,7 +27476,6 @@
 		(path "/6f5bb0c8-6ac3-4ce6-b03d-7c3cf26f2c97")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.54 2.54)
 			(end -1.54 2.54)
@@ -27613,15 +27653,14 @@
 		(at 215.5 126.9178 90)
 		(tags "35RAPC4BH3 ")
 		(property "Reference" "J14"
-			(at -7.3822 0 0)
+			(at -4.9911 0 270)
 			(unlocked yes)
 			(layer "F.SilkS")
 			(uuid "8041435c-2cf9-4365-b98f-58ff44ac664e")
 			(effects
 				(font
-					(size 0.48768 0.48768)
-					(thickness 0.121)
-					(bold yes)
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -27629,7 +27668,6 @@
 			(at -5.02 9.806 90)
 			(unlocked yes)
 			(layer "F.Fab")
-			(hide yes)
 			(uuid "dad498ce-88d4-4b5b-8c66-99f129d980b7")
 			(effects
 				(font
@@ -27650,7 +27688,7 @@
 				)
 			)
 		)
-		(property "Description" "https://www.mouser.com/ProductDetail/Switchcraft/35RAPC4BH3?qs=I3kMT7EEIOWFGyk5rynRAQ%3D%3D"
+		(property "Description" "https://www.digikey.com/en/products/detail/switchcraft-inc/35RAPC4BH3/1288781?s=N4IgTCBcDaIMwFYBKBBACgYQCwCEAScIAugL5A"
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
@@ -27666,7 +27704,7 @@
 		(path "/108f3370-ca87-4c44-988f-49ce783efd6d")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr smd)
+		(attr smd exclude_from_bom)
 		(fp_line
 			(start 2.1336 -5.8801)
 			(end 2.1336 5.8801)
@@ -27675,7 +27713,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "f4993f4b-916c-4d62-91a0-545661d96d11")
+			(uuid "bed31aec-1683-4b79-a002-d974dab85111")
 		)
 		(fp_line
 			(start -0.992536 -5.8801)
@@ -27685,7 +27723,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "993ca7d3-23f6-499c-a935-44344beb06f4")
+			(uuid "a6840329-14f9-4eb1-9ad5-6ac3baf809d9")
 		)
 		(fp_line
 			(start -12.115808 -5.8801)
@@ -27695,7 +27733,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "a678476b-5f31-4b32-b25d-cd606926aa29")
+			(uuid "8ffa9928-d614-47fd-8003-d7f3d5154e08")
 		)
 		(fp_line
 			(start -12.1158 -1.9304)
@@ -27705,7 +27743,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "43303997-d2f5-44df-a974-212b67a91c37")
+			(uuid "e5325349-0fd0-4acf-8bbb-8bfb370acf00")
 		)
 		(fp_line
 			(start -15.621 -1.9304)
@@ -27715,7 +27753,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "b28c28c0-9d1c-4417-ac77-a4e73978ff41")
+			(uuid "46f98406-c3a1-4f33-a1ca-e5c6e3291334")
 		)
 		(fp_line
 			(start -12.1158 1.9304)
@@ -27725,7 +27763,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "79fb2a69-d1ed-4b72-b561-27149a539178")
+			(uuid "9529d447-da91-4372-9f11-517704ddd557")
 		)
 		(fp_line
 			(start -15.621 1.9304)
@@ -27735,7 +27773,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "0a024509-c8c9-4f63-8504-92bcb46d5c04")
+			(uuid "c94b2f71-01d9-4af5-a3dd-d90aef8b283c")
 		)
 		(fp_line
 			(start 2.1336 5.8801)
@@ -27745,7 +27783,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "ee3f46b7-8692-41c6-ba77-bef4f975b244")
+			(uuid "25b1d57a-bc80-450c-bc91-bdd5c2488224")
 		)
 		(fp_line
 			(start -12.1158 5.8801)
@@ -27755,7 +27793,7 @@
 				(type solid)
 			)
 			(layer "F.SilkS")
-			(uuid "cb7cd7c3-1010-4d8a-9fa5-b040a4c6d64d")
+			(uuid "b835e2b6-66b6-4af1-8d34-9f2e8706d614")
 		)
 		(fp_line
 			(start -0.792199 -6.0892)
@@ -27765,7 +27803,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "aff71f32-ca51-4f9f-95df-722cfee28f1e")
+			(uuid "09f32dfd-28a1-40ab-a0fd-9fe14793a614")
 		)
 		(fp_line
 			(start -3.586199 -6.0892)
@@ -27775,7 +27813,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "39f74f19-bed8-4f3a-a891-452933b6e334")
+			(uuid "8b255fc7-a55a-483e-8a59-117c34eade4d")
 		)
 		(fp_line
 			(start 2.2606 -6.0071)
@@ -27785,7 +27823,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "3aa3e7c7-9240-45c8-a3fc-06b88824719c")
+			(uuid "e1ab1dc4-2238-4bab-9bd2-e49018a913ee")
 		)
 		(fp_line
 			(start -0.792199 -6.0071)
@@ -27795,7 +27833,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "a856d3ba-ca5a-4014-8ccf-10ef062c94d5")
+			(uuid "b88b9de2-944d-48b4-a27f-20a1f7ad8611")
 		)
 		(fp_line
 			(start -3.586199 -6.0071)
@@ -27805,7 +27843,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "be2b0c48-eed5-4b3e-83b4-6a0e04b8ec55")
+			(uuid "e96824be-2b9d-4ffc-bbe9-60582044c531")
 		)
 		(fp_line
 			(start -12.242808 -6.0071)
@@ -27815,7 +27853,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "6fc02ddb-f1b1-4c63-8157-c28a833f5284")
+			(uuid "7844c972-d2d7-4e4e-be9c-ad504c55e99a")
 		)
 		(fp_line
 			(start -12.2428 -2.0574)
@@ -27825,7 +27863,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "f2aeb5dd-3da6-4799-8b26-8b0569b7980d")
+			(uuid "8b678b98-d5e7-4e08-80f7-8201b29951e0")
 		)
 		(fp_line
 			(start -15.748 -2.0574)
@@ -27835,7 +27873,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "8330c88b-2204-4cb1-bb7b-1f55f4c3f45d")
+			(uuid "df5b11e4-bf2e-46de-8517-edb9d5f15523")
 		)
 		(fp_line
 			(start -12.2428 2.0574)
@@ -27845,7 +27883,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "0735f713-890a-4e84-b041-d8afeb4ff4ed")
+			(uuid "8b0747b1-ba7b-4e81-ada9-4c38a682364e")
 		)
 		(fp_line
 			(start -15.748 2.0574)
@@ -27855,7 +27893,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "dab91cb7-f367-4bf3-89e5-0aa147cf8480")
+			(uuid "b112cfcb-b147-4044-9e80-0d1c7fef2174")
 		)
 		(fp_line
 			(start 2.2606 6.0071)
@@ -27865,7 +27903,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "bd7d69af-0d29-41d5-b841-3aacf289aef8")
+			(uuid "531f9974-2f8c-477b-8bc6-5992c9dcfd7e")
 		)
 		(fp_line
 			(start -12.2428 6.0071)
@@ -27875,7 +27913,7 @@
 				(type solid)
 			)
 			(layer "F.CrtYd")
-			(uuid "2209d36d-8f7d-4a53-ac3a-b70759f41530")
+			(uuid "231ca8f1-49c0-4f82-868c-a253097de56c")
 		)
 		(fp_line
 			(start 2.0066 -5.7531)
@@ -27885,7 +27923,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "8f464d49-2008-435d-a225-93ad076079f8")
+			(uuid "4c0f85f6-ed42-402b-b862-5f4130d66229")
 		)
 		(fp_line
 			(start -11.9888 -5.7531)
@@ -27895,7 +27933,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "c9c96da7-c1f7-4d3e-ada3-f21429017fbb")
+			(uuid "b333ee6c-9ce8-46c6-b71a-6f9c4a0a4cba")
 		)
 		(fp_line
 			(start -11.9888 -1.8034)
@@ -27905,7 +27943,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "f95a5581-c971-4e62-a4bc-02a1c17c6307")
+			(uuid "6c3b52f5-76ce-42a1-bc01-fba515ea1b15")
 		)
 		(fp_line
 			(start -15.494 -1.8034)
@@ -27915,7 +27953,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "57de0b29-fc10-4ee1-abba-be1ff9fc917f")
+			(uuid "958bbc73-2ba8-4266-8a58-a533e7da136e")
 		)
 		(fp_line
 			(start -15.494 1.8034)
@@ -27925,7 +27963,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "b8cdcab9-671d-4102-a43d-d0f359b74ec7")
+			(uuid "667a0caf-3503-4aef-a84e-dadb9a99253c")
 		)
 		(fp_line
 			(start 2.0066 5.7531)
@@ -27935,7 +27973,7 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "aae47854-37b9-49d5-9ddd-cd2d7ba57cd6")
+			(uuid "42a6c76b-a111-4998-b8da-c387156de3a2")
 		)
 		(fp_line
 			(start -11.9888 5.7531)
@@ -27945,10 +27983,10 @@
 				(type solid)
 			)
 			(layer "F.Fab")
-			(uuid "a5d4cbee-8337-40c3-b732-ffebae7823a0")
+			(uuid "691e1ef3-7316-4c1d-903a-af61fc432aa9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 3.2678 0 0)
+			(at -5.203 7.586 90)
 			(unlocked yes)
 			(layer "F.Fab")
 			(uuid "72b3bed1-e967-4a3d-bec5-fa7750933fb3")
@@ -28086,7 +28124,6 @@
 		(path "/6301170d-b9cd-467f-a5ef-390221fd76db")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.1999 0.3) (xy 0.1999 0.3) (xy 0.1999 -0.3) (xy -0.1999 -0.3)
@@ -28217,7 +28254,7 @@
 		(property "Reference" "U5"
 			(at -2.7709 -0.9 0)
 			(layer "F.SilkS")
-			(uuid "8dc75523-a851-4da3-b939-eb0c76542e55")
+			(uuid "c89fc7cc-8cbb-49ca-9dc9-83f079c79542")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -28230,7 +28267,7 @@
 			(at -1.651 2.794 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "93b6bd64-9692-48ae-a5e8-6369ae137945")
+			(uuid "38356826-69c8-48da-8b24-ae75c600e4e3")
 			(effects
 				(font
 					(size 0.48768 0.48768)
@@ -28243,7 +28280,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "23ae06bd-0586-40f6-b28d-c1778c22371c")
+			(uuid "43310b2a-26f5-4587-af52-6d68f9bfd5d3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28255,7 +28292,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9441a958-c1c2-4e0c-886d-23245ea3bfcd")
+			(uuid "1ff9c29d-fdeb-4004-b654-c3b15a2fcd20")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28292,7 +28329,6 @@
 		(path "/9a01980f-e710-4766-8aae-df65265f64b3")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_line
 			(start 1.27 -0.4294)
 			(end 1.27 0.4294)
@@ -28587,7 +28623,7 @@
 		(property "Reference" "J1"
 			(at 0 0.635 0)
 			(layer "B.SilkS")
-			(uuid "31b57dfd-dc7b-4a91-901f-f622e229fc73")
+			(uuid "9fef49ff-b248-4f57-b338-eff285dfa203")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -28599,7 +28635,7 @@
 		(property "Value" "CONN E"
 			(at 0 -0.635 0)
 			(layer "B.Fab")
-			(uuid "1285e7ba-7d14-423c-b9c1-49b74303ba77")
+			(uuid "48932367-adf0-4b0c-b54d-1287e63c6a67")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -28612,7 +28648,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b270967a-8d69-4ecc-8474-d801d2b98c8e")
+			(uuid "ea0dbe9d-46cd-49f5-bcb7-fb4d7e786faa")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28624,7 +28660,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "16691105-791e-4e64-9bb2-7552968c9b03")
+			(uuid "8b641c5d-f256-48c3-a1ef-59ab7067e8e0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30621,6 +30657,7 @@
 		(path "/70f945ec-1d52-42c3-9fd4-5a2dd8189c01")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 3) (xy -0.35 3) (xy -0.35 1.862451) (xy -0.865061 1.712926) (xy -1.079186 1.596493)
@@ -30760,6 +30797,7 @@
 		(path "/33240ae9-7167-4a77-a9e5-69c37525e258")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 3) (xy -0.35 3) (xy -0.35 1.862451) (xy -0.865061 1.712926) (xy -1.079186 1.596493)
@@ -30849,7 +30887,7 @@
 		(property "Reference" "J3"
 			(at 0 0.635 0)
 			(layer "B.SilkS")
-			(uuid "2e110b13-8e4a-414c-80c8-a04258fc5c87")
+			(uuid "1355c182-8f5e-4a65-a470-c6e42afea950")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -30861,7 +30899,7 @@
 		(property "Value" "CONN E"
 			(at 0 -0.635 0)
 			(layer "B.Fab")
-			(uuid "4acde1d1-f672-4ac0-a3cf-49156eeb281d")
+			(uuid "9d2b39f7-9f64-4c2a-a29d-a44f5970b150")
 			(effects
 				(font
 					(size 0.70104 0.70104)
@@ -30874,7 +30912,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "19bfd2b9-6fb7-4360-a917-7470dc95af6a")
+			(uuid "1c73a7b6-dbbe-49d9-8ba7-c562f8db59ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30886,7 +30924,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0c9c26c8-7c03-46fe-a791-3cee71ec1302")
+			(uuid "82e416cd-efe7-4150-90a6-348ffe6d23fb")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32881,6 +32919,7 @@
 		(path "/6176091e-6708-444f-ba8e-44422b0af30f")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
+		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 3) (xy -0.35 3) (xy -0.35 1.862451) (xy -0.865061 1.712926) (xy -1.079186 1.596493)

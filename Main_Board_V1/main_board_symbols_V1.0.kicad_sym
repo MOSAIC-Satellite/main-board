@@ -1899,6 +1899,7 @@
 				(font
 					(size 1.524 1.524)
 				)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "CONN_35RAPC4BH3_SWC"
@@ -1911,7 +1912,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "35RAPC4BH3"
+		(property "Datasheet" "https://www.switchcraft.com/assets/1/24/35rapc__h3_cd.pdf?4709"
 			(at 1.524 -16.51 0)
 			(effects
 				(font
@@ -1921,21 +1922,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "https://www.digikey.com/en/products/detail/switchcraft-inc/35RAPC4BH3/1288781?s=N4IgTCBcDaIMwFYBKBBACgYQCwCEAScIAugL5A"
 			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(hide yes)
-			)
-		)
-		(property "ki_locked" ""
-			(at 0 0 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
 			)
 		)
 		(property "ki_keywords" "35RAPC4BH3"
@@ -4731,7 +4724,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.sparkfun.com/datasheets/Prototyping/Connectors/JST-Horizontal.pdf"
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893957006757888"
 			(at 0 0 0)
 			(effects
 				(font
@@ -4740,7 +4733,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://www.mouser.com/ProductDetail/485-1769"
+		(property "Description" "https://jlcpcb.com/partdetail/48652-PH_2PSurface_Mount_RightAngle/C47647"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "JLCPCB Part #" "C47647"
 			(at 0 0 0)
 			(effects
 				(font
