@@ -56261,6 +56261,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Label on board:"
+		(exclude_from_sim no)
+		(at 195.072 98.044 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "05b99a19-f1f4-4b87-b4c0-0b19b26bc7b3")
+	)
+	(text "5"
+		(exclude_from_sim no)
+		(at 199.644 126.492 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0699907c-37fb-4daa-a929-69095be4a1ec")
+	)
 	(text "FC1"
 		(exclude_from_sim no)
 		(at 163.322 185.928 0)
@@ -56291,6 +56311,16 @@
 			(justify left bottom)
 		)
 		(uuid "14ff6546-89c2-461d-a50a-bfda7065aa6d")
+	)
+	(text "1"
+		(exclude_from_sim no)
+		(at 199.644 103.632 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "15b7c1c2-49f6-427f-837e-56470b15d91d")
 	)
 	(text "Design based on SparkFun MicroMod Main Board - Double\nhttps://www.sparkfun.com/products/20595"
 		(exclude_from_sim no)
@@ -56464,6 +56494,16 @@
 		)
 		(uuid "5260c82b-7384-4251-a607-a5eb5e6177a3")
 	)
+	(text "4"
+		(exclude_from_sim no)
+		(at 199.644 118.872 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "54981fe4-51d2-4183-9406-be68e7639512")
+	)
 	(text "Testpoints"
 		(exclude_from_sim no)
 		(at 265.938 109.728 0)
@@ -56538,6 +56578,16 @@
 		)
 		(uuid "6c6a8f56-0cec-41f7-a77f-b1e94f160d2a")
 	)
+	(text "6"
+		(exclude_from_sim no)
+		(at 199.644 131.572 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6ecb1875-c111-4d38-9152-cfd571956796")
+	)
 	(text "Buttons"
 		(exclude_from_sim no)
 		(at 403.86 231.775 0)
@@ -56592,6 +56642,16 @@
 		)
 		(uuid "83fd4e87-6db5-47e7-b02d-6fd21040a60d")
 	)
+	(text "2"
+		(exclude_from_sim no)
+		(at 199.644 108.966 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "8a34d4e3-3a5d-4b09-9833-b46ff2e7043f")
+	)
 	(text "L"
 		(exclude_from_sim no)
 		(at 293.624 282.702 0)
@@ -56602,6 +56662,16 @@
 			(justify left bottom)
 		)
 		(uuid "8ee65c5e-4d75-4593-9eff-891435066c0e")
+	)
+	(text "3"
+		(exclude_from_sim no)
+		(at 199.644 113.792 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "958de394-ca71-4832-874f-dcdeafddc8fb")
 	)
 	(text "UART Multiplexer"
 		(exclude_from_sim no)
@@ -56626,10 +56696,10 @@
 	)
 	(text "Certain processors have limited GPIO and\nso these alternative power enable pins have\nbeen provided. Simply move the 2-pin\nJumper to suit your project's needs."
 		(exclude_from_sim no)
-		(at 147.32 95.504 0)
+		(at 150.876 92.71 0)
 		(effects
 			(font
-				(size 1.778 1.778)
+				(size 1.5 1.5)
 			)
 			(justify left bottom)
 		)
@@ -57074,7 +57144,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.038 132.588) (xy 179.578 132.588)
+			(xy 172.72 132.08) (xy 175.26 132.08)
 		)
 		(stroke
 			(width 0.1524)
@@ -57694,7 +57764,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.878 107.188) (xy 164.338 107.188)
+			(xy 162.56 106.68) (xy 160.02 106.68)
 		)
 		(stroke
 			(width 0.1524)
@@ -57824,7 +57894,7 @@
 	)
 	(wire
 		(pts
-			(xy 174.498 109.728) (xy 177.038 109.728)
+			(xy 170.18 109.22) (xy 172.72 109.22)
 		)
 		(stroke
 			(width 0.1524)
@@ -58104,7 +58174,7 @@
 	)
 	(wire
 		(pts
-			(xy 169.418 130.048) (xy 166.878 130.048)
+			(xy 165.1 129.54) (xy 162.56 129.54)
 		)
 		(stroke
 			(width 0.1524)
@@ -59654,7 +59724,7 @@
 	)
 	(wire
 		(pts
-			(xy 174.498 114.808) (xy 177.038 114.808)
+			(xy 170.18 114.3) (xy 172.72 114.3)
 		)
 		(stroke
 			(width 0.1524)
@@ -59994,7 +60064,7 @@
 	)
 	(wire
 		(pts
-			(xy 174.498 104.648) (xy 177.038 104.648)
+			(xy 170.18 104.14) (xy 172.72 104.14)
 		)
 		(stroke
 			(width 0.1524)
@@ -60354,7 +60424,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.878 117.348) (xy 164.338 117.348)
+			(xy 162.56 116.84) (xy 160.02 116.84)
 		)
 		(stroke
 			(width 0.1524)
@@ -60591,6 +60661,16 @@
 			(type solid)
 		)
 		(uuid "d1d21557-4b32-454b-bbef-78a162986ab0")
+	)
+	(polyline
+		(pts
+			(xy 187.96 99.06) (xy 200.66 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d22bdc49-5b8a-4507-8dbe-522a08ed3487")
 	)
 	(wire
 		(pts
@@ -60924,7 +61004,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.038 127.508) (xy 179.578 127.508)
+			(xy 172.72 127) (xy 175.26 127)
 		)
 		(stroke
 			(width 0.1524)
@@ -61184,7 +61264,7 @@
 	)
 	(wire
 		(pts
-			(xy 174.498 119.888) (xy 177.038 119.888)
+			(xy 170.18 119.38) (xy 172.72 119.38)
 		)
 		(stroke
 			(width 0.1524)
@@ -61483,7 +61563,7 @@
 		(uuid "01277eac-6dbd-4dfe-a538-e3d19fc00775")
 	)
 	(label "I2C_SCL"
-		(at 174.498 203.708 180)
+		(at 179.07 203.2 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -61883,7 +61963,7 @@
 		(uuid "47d1ff7b-e0f0-4b19-a0d7-047c424301eb")
 	)
 	(label "I2C_SDA"
-		(at 174.498 206.248 180)
+		(at 179.07 205.74 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62043,7 +62123,7 @@
 		(uuid "628a8333-e4a2-4e2f-b59d-c99b1d1c4faa")
 	)
 	(label "G6-PROCESSOR"
-		(at 177.038 114.808 0)
+		(at 172.72 114.3 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62063,7 +62143,7 @@
 		(uuid "67a1a19c-31a9-4b2a-9d0d-a4b2ae4bce87")
 	)
 	(label "G6-JUMPER"
-		(at 164.338 117.348 180)
+		(at 160.02 116.84 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62093,7 +62173,7 @@
 		(uuid "6c0d0590-6fc2-42f1-9801-91567b0dfddd")
 	)
 	(label "I2C_~{INT}"
-		(at 174.498 201.168 180)
+		(at 179.07 200.66 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62113,7 +62193,7 @@
 		(uuid "732b9aa0-93f0-49ae-bdde-02b5972aed61")
 	)
 	(label "~{CS1}-PROC-JUMPER"
-		(at 166.878 130.048 180)
+		(at 162.56 129.54 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62223,7 +62303,7 @@
 		(uuid "82923d02-269d-444e-b209-a85ff5fdb2b5")
 	)
 	(label "I2C_SCL"
-		(at 83.058 203.708 180)
+		(at 87.63 203.2 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62333,7 +62413,7 @@
 		(uuid "91352d66-7a4f-4dd8-a164-bc88373a0a82")
 	)
 	(label "I2C_~{INT}"
-		(at 83.058 201.168 180)
+		(at 87.63 200.66 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62363,7 +62443,7 @@
 		(uuid "9496b889-0d53-47ea-9e2b-37a587b3ad9c")
 	)
 	(label "G5-PROCESSOR"
-		(at 177.038 104.648 0)
+		(at 172.72 104.14 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62453,7 +62533,7 @@
 		(uuid "a185dabe-7f16-4d06-95c0-d795ae867e5c")
 	)
 	(label "~{CS1}-PROCESSOR"
-		(at 179.578 127.508 0)
+		(at 175.26 127 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62513,7 +62593,7 @@
 		(uuid "a8dddfee-3e1b-49da-9ad6-b548dcdd81c0")
 	)
 	(label "A1-PROCESSOR{slash}~{CS1}-ALT"
-		(at 179.578 132.588 0)
+		(at 175.26 132.08 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62523,7 +62603,7 @@
 		(uuid "ae15c140-314c-4a62-a0f4-216ea5ba45ca")
 	)
 	(label "SDIO_DATA1{slash}PWR_EN1_ALT"
-		(at 177.038 119.888 0)
+		(at 172.72 119.38 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62683,7 +62763,7 @@
 		(uuid "ce1278e8-a34e-4ed8-b7f3-b7e56648a54a")
 	)
 	(label "I2C_SDA"
-		(at 83.058 206.248 180)
+		(at 87.63 205.74 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62693,7 +62773,7 @@
 		(uuid "d0c201df-2ccb-4e42-99c1-19db185b526e")
 	)
 	(label "G5-JUMPER"
-		(at 164.338 107.188 180)
+		(at 160.02 106.68 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -62813,7 +62893,7 @@
 		(uuid "dc9764b7-3008-4b55-8356-e2417b0f5d82")
 	)
 	(label "SDIO_DATA2/PWR_EN0_ALT"
-		(at 177.038 109.728 0)
+		(at 172.72 109.22 0)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -68505,7 +68585,7 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:SWITCH-SPDT-SMD-RIGHT-ANGLE")
-		(at 171.958 130.048 0)
+		(at 167.64 129.54 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -68513,7 +68593,7 @@
 		(dnp no)
 		(uuid "61844e1a-216b-4b5e-a236-730554d3c424")
 		(property "Reference" "S3"
-			(at 173.228 127 0)
+			(at 168.91 126.492 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -68522,7 +68602,7 @@
 			)
 		)
 		(property "Value" "switch"
-			(at 172.974 133.35 0)
+			(at 168.656 132.842 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -68532,7 +68612,7 @@
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SWITCH_SPST_SMD_A"
-			(at 171.958 130.048 0)
+			(at 167.64 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68541,7 +68621,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603117332785491968"
-			(at 171.958 130.048 0)
+			(at 167.64 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68550,7 +68630,7 @@
 			)
 		)
 		(property "Description" "https://jlcpcb.com/partdetail/Sofng-MS1290N/C19188866"
-			(at 171.958 130.048 0)
+			(at 167.64 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68559,7 +68639,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C19188866"
-			(at 171.958 130.048 0)
+			(at 167.64 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -68568,7 +68648,7 @@
 			)
 		)
 		(property "FT Rotation Offset" "180"
-			(at 171.958 130.048 0)
+			(at 167.64 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74510,7 +74590,7 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:SWITCH-SPDT-SMD-RIGHT-ANGLE")
-		(at 169.418 117.348 0)
+		(at 165.1 116.84 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -74518,7 +74598,7 @@
 		(dnp no)
 		(uuid "e0b2b0d1-93a7-4b91-aef7-c2af2253d147")
 		(property "Reference" "S2"
-			(at 170.688 114.3 0)
+			(at 166.37 113.792 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -74527,7 +74607,7 @@
 			)
 		)
 		(property "Value" "switch"
-			(at 170.434 120.65 0)
+			(at 166.116 120.142 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -74537,7 +74617,7 @@
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SWITCH_SPST_SMD_A"
-			(at 169.418 117.348 0)
+			(at 165.1 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74546,7 +74626,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603117332785491968"
-			(at 169.418 117.348 0)
+			(at 165.1 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74555,7 +74635,7 @@
 			)
 		)
 		(property "Description" "https://jlcpcb.com/partdetail/Sofng-MS1290N/C19188866"
-			(at 169.418 117.348 0)
+			(at 165.1 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74564,7 +74644,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C19188866"
-			(at 169.418 117.348 0)
+			(at 165.1 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74573,7 +74653,7 @@
 			)
 		)
 		(property "FT Rotation Offset" "180"
-			(at 169.418 117.348 0)
+			(at 165.1 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75601,7 +75681,7 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:SWITCH-SPDT-SMD-RIGHT-ANGLE")
-		(at 169.418 107.188 0)
+		(at 165.1 106.68 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -75609,7 +75689,7 @@
 		(dnp no)
 		(uuid "f26a499d-1191-4833-bad6-be34356d20c0")
 		(property "Reference" "S1"
-			(at 170.688 104.14 0)
+			(at 166.37 103.632 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -75618,7 +75698,7 @@
 			)
 		)
 		(property "Value" "switch"
-			(at 170.434 110.49 0)
+			(at 166.116 109.982 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -75628,7 +75708,7 @@
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SWITCH_SPST_SMD_A"
-			(at 169.418 107.188 0)
+			(at 165.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75637,7 +75717,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603117332785491968"
-			(at 169.418 107.188 0)
+			(at 165.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75646,7 +75726,7 @@
 			)
 		)
 		(property "Description" "https://jlcpcb.com/partdetail/Sofng-MS1290N/C19188866"
-			(at 169.418 107.188 0)
+			(at 165.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75655,7 +75735,7 @@
 			)
 		)
 		(property "JLCPCB Part #" "C19188866"
-			(at 169.418 107.188 0)
+			(at 165.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -75664,7 +75744,7 @@
 			)
 		)
 		(property "FT Rotation Offset" "180"
-			(at 169.418 107.188 0)
+			(at 165.1 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
