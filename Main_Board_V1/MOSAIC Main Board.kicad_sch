@@ -56355,6 +56355,16 @@
 		)
 		(uuid "2b176486-f8d7-400d-b5ed-1a4a4bef1030")
 	)
+	(text "Battery Input"
+		(exclude_from_sim no)
+		(at 373.126 148.59 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "351afe61-3dc7-4275-8d24-c1368476d6fb")
+	)
 	(text "I2C - Qwiic"
 		(exclude_from_sim no)
 		(at 417.068 173.355 0)
@@ -57234,7 +57244,7 @@
 	)
 	(wire
 		(pts
-			(xy 369.189 132.08) (xy 370.205 132.08)
+			(xy 364.49 160.02) (xy 365.506 160.02)
 		)
 		(stroke
 			(width 0.1524)
@@ -59974,6 +59984,16 @@
 	)
 	(wire
 		(pts
+			(xy 365.506 157.48) (xy 364.49 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ae18b658-94dd-4bf4-a029-016941e6c8a7")
+	)
+	(wire
+		(pts
 			(xy 410.718 132.588) (xy 413.258 132.588)
 		)
 		(stroke
@@ -60214,13 +60234,13 @@
 	)
 	(wire
 		(pts
-			(xy 367.665 134.62) (xy 367.665 137.16)
+			(xy 364.49 157.48) (xy 364.49 154.94)
 		)
 		(stroke
-			(width 0.1524)
-			(type solid)
+			(width 0)
+			(type default)
 		)
-		(uuid "bb7a2c99-4781-4940-a59d-2c25a469307b")
+		(uuid "bb9edaeb-27e7-4a0f-b9f5-9eca9ae92482")
 	)
 	(wire
 		(pts
@@ -60961,16 +60981,6 @@
 			(type solid)
 		)
 		(uuid "e1a12ed4-adb2-4e91-91e8-4979a938fc0c")
-	)
-	(wire
-		(pts
-			(xy 370.205 134.62) (xy 367.665 134.62)
-		)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(uuid "e248c3f9-3aa1-4cde-8986-8bb0cee14fc8")
 	)
 	(wire
 		(pts
@@ -62583,7 +62593,7 @@
 		(uuid "a769d61f-c36d-4140-b5de-96673d1006ef")
 	)
 	(label "RBF_BATT_IN"
-		(at 369.189 132.08 180)
+		(at 364.49 160.02 180)
 		(effects
 			(font
 				(size 0.889 0.889)
@@ -63275,8 +63285,7 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:JST_2MM_MALE")
-		(at 375.285 134.62 270)
-		(mirror x)
+		(at 370.586 157.48 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -63284,7 +63293,7 @@
 		(dnp no)
 		(uuid "03d7427b-f5c9-49be-88d0-28bd84d8d565")
 		(property "Reference" "J9"
-			(at 375.285 137.922 90)
+			(at 370.586 154.178 90)
 			(effects
 				(font
 					(size 1.778 1.5113)
@@ -63293,7 +63302,7 @@
 			)
 		)
 		(property "Value" "CONN_JST_BATT"
-			(at 375.285 134.62 0)
+			(at 370.586 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63302,7 +63311,7 @@
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:JST-2-SMD"
-			(at 375.285 134.62 0)
+			(at 370.586 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63311,7 +63320,7 @@
 			)
 		)
 		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588893957006757888"
-			(at 375.285 134.62 0)
+			(at 370.586 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63320,7 +63329,7 @@
 			)
 		)
 		(property "Description" "https://jlcpcb.com/partdetail/48652-PH_2PSurface_Mount_RightAngle/C47647"
-			(at 375.285 134.62 0)
+			(at 370.586 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -63329,11 +63338,12 @@
 			)
 		)
 		(property "JLCPCB Part #" "C47647"
-			(at 375.285 134.62 0)
+			(at 369.443 147.828 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -70472,8 +70482,8 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:GND")
-		(at 367.665 139.7 0)
-		(mirror y)
+		(at 364.49 152.4 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -70481,7 +70491,7 @@
 		(dnp no)
 		(uuid "8482d4b7-4d11-42d3-ad92-1c280055e3c9")
 		(property "Reference" "#GND028"
-			(at 367.665 139.7 0)
+			(at 364.49 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70490,7 +70500,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 367.665 139.954 0)
+			(at 364.49 152.146 0)
 			(effects
 				(font
 					(size 1.778 1.778)
@@ -70499,7 +70509,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 367.665 139.7 0)
+			(at 364.49 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70508,7 +70518,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 367.665 139.7 0)
+			(at 364.49 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -70517,7 +70527,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 367.665 139.7 0)
+			(at 364.49 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
