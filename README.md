@@ -6,7 +6,7 @@ For detailed documentation on the Main Board, check out its core documentation [
 
 ## Current Features
 ---
-| Feature      |
+| **Feature**      |
 | :----------- |
 | Swappable Processor Slot |
 | 2x Expandable Memory Slots |
