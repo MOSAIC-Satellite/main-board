@@ -33074,6 +33074,47 @@
 		(uuid "af5ec703-b23e-414e-a0e1-f66a8953bf26")
 	)
 	(gr_line
+		(start 233 105)
+		(end 233 82)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "029d8e25-933b-4ea1-8542-cb8702b2a38d")
+	)
+	(gr_rect
+		(start 207 82)
+		(end 238 105)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(fill no)
+		(layer "B.SilkS")
+		(uuid "887d2c6d-58f6-41e3-8e82-ae7d55b380ce")
+	)
+	(gr_line
+		(start 238 90)
+		(end 207 90)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "9082d21e-5aa4-44e3-bc47-9fde9a757e6f")
+	)
+	(gr_line
+		(start 207 97.5)
+		(end 238 97.5)
+		(stroke
+			(width 0.15)
+			(type default)
+		)
+		(layer "B.SilkS")
+		(uuid "ba9b26b3-9af9-43ac-8e5e-f0967be113ea")
+	)
+	(gr_line
 		(start 245 144.5)
 		(end 248 141.5)
 		(stroke
@@ -34392,6 +34433,78 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "GPIO Switch Table"
+		(at 230.5 81 0)
+		(layer "B.SilkS")
+		(uuid "0ba14d51-e47b-4193-9887-3dab65d2ff8f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "1 = G5-PROCESSOR"
+		(at 232 85 0)
+		(layer "B.SilkS")
+		(uuid "117fec61-9112-4183-8791-465a0c6bf429")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "5 = ~{CS1}-PROCESSOR"
+		(at 232 100.5 0)
+		(layer "B.SilkS")
+		(uuid "26fc3e39-fe6e-4b5d-a694-e1fde89c8779")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "3 = G6-PROCESSOR"
+		(at 232 93 0)
+		(layer "B.SilkS")
+		(uuid "27feef05-9a54-4ef9-9d22-122b05c08077")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "6 = A1-PROCESSOR/~{CS1}-ALT"
+		(at 232 103.5 0)
+		(layer "B.SilkS")
+		(uuid "39ffdf1d-6833-4b54-9e46-937a68021368")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "4 = SDIO_DATA1/PWR_EN1_ALT"
+		(at 232 96 0)
+		(layer "B.SilkS")
+		(uuid "469ec68b-36fd-4c51-943a-02d5dd50f112")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Function Board"
 		(at 231.6 75.7 0)
 		(layer "B.SilkS")
@@ -34594,6 +34707,18 @@
 			)
 		)
 	)
+	(gr_text "~{CS1}"
+		(at 237 102 0)
+		(layer "B.SilkS")
+		(uuid "c55819d5-4b4e-4d98-8014-3193bff228e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(gr_text "Function Board"
 		(at 193.5 75.7 0)
 		(layer "B.SilkS")
@@ -34794,6 +34919,42 @@
 					(xy 182.336227 74.036208) (xy 182.7001 74.036208)
 				)
 			)
+		)
+	)
+	(gr_text "2 = SDIO_DATA2/PWR_EN0_ALT"
+		(at 232 88 0)
+		(layer "B.SilkS")
+		(uuid "d0d91e5b-f1c2-43fb-98fb-0f5943b06948")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "G6"
+		(at 237 94.5 0)
+		(layer "B.SilkS")
+		(uuid "d5eab0ea-0cde-48ce-9d5b-5578ed9588ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "G5"
+		(at 237 87 0)
+		(layer "B.SilkS")
+		(uuid "d6d2d38f-c48a-495c-8a88-9087659b3bcc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
 		)
 	)
 	(gr_text "Design based on SparkFun MicroMod Main Board - Double\nhttps://www.sparkfun.com/products/20595"
