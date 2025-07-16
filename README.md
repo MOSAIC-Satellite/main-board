@@ -2,7 +2,7 @@
 
 This is the repository for MOSAIC's Main Board.
 
-For detailed documentation on the Main Board, check out its core documentation [here](https://www.mosaicsat.org/core_documentation/hardware/main_board/).
+For detailed information on the Main Board, check out its core documentation [here](https://www.mosaicsat.org/core_documentation/hardware/main_board/).
 
 To get your own MOSAIC Main Board, visit the MOSAIC fabrication guide [here](https://www.mosaicsat.org/getting_mosaic/).
 
