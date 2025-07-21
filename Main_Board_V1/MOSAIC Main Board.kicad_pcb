@@ -12,6 +12,7 @@
 		(date "2024-05-23")
 		(rev "1.0")
 		(company "Texas State Space Lab")
+		(comment 1 "Copyright (c) 2022 - 2025")
 	)
 	(layers
 		(0 "F.Cu" signal)
@@ -22081,7 +22082,7 @@
 	(footprint "main_board_footprints_V1.0:SL_Logo"
 		(layer "F.Cu")
 		(uuid "cacf1296-fdd7-4314-9496-73f6e74ecb0d")
-		(at 196.75834 179.6524)
+		(at 201 179.5)
 		(property "Reference" "G***"
 			(at 0 0 0)
 			(layer "B.Fab")
