@@ -9,6 +9,7 @@
 		(date "2025-04-16")
 		(rev "2.0")
 		(company "Texas State Space Lab")
+		(comment 1 "Copyright (c) 2022 - 2025")
 	)
 	(lib_symbols
 		(symbol "JUMPER-COMBO_2_NC_TRACE_1"
@@ -64852,7 +64853,7 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:OSHW-LOGOL")
-		(at 423.291 282.321 0)
+		(at 431.8 281.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -64860,7 +64861,7 @@
 		(dnp no)
 		(uuid "292bb57b-d0f8-4675-a1f9-b496d4878bfd")
 		(property "Reference" "LOGO2"
-			(at 423.291 282.321 0)
+			(at 431.8 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64869,7 +64870,7 @@
 			)
 		)
 		(property "Value" "OSHW-LOGOL"
-			(at 423.291 282.321 0)
+			(at 431.8 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64878,7 +64879,7 @@
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:OSHW-LOGO-L"
-			(at 423.291 282.321 0)
+			(at 431.8 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64887,7 +64888,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 423.291 282.321 0)
+			(at 431.8 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -64896,7 +64897,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 423.291 282.321 0)
+			(at 431.8 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66698,7 +66699,7 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:QWIIC_LOGO_8MM")
-		(at 401.447 284.48 0)
+		(at 409.956 284.099 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -66706,7 +66707,7 @@
 		(dnp no)
 		(uuid "46d9629e-6a7a-4fac-ba64-ea0cfb0f45e9")
 		(property "Reference" "LOGO1"
-			(at 401.447 284.48 0)
+			(at 409.956 284.099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66715,7 +66716,7 @@
 			)
 		)
 		(property "Value" "QWIIC_LOGO_8MM"
-			(at 401.447 284.48 0)
+			(at 409.956 284.099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66724,7 +66725,7 @@
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:QWIIC_8MM"
-			(at 401.447 284.48 0)
+			(at 409.956 284.099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66733,7 +66734,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 401.447 284.48 0)
+			(at 409.956 284.099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -66742,7 +66743,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 401.447 284.48 0)
+			(at 409.956 284.099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72893,7 +72894,7 @@
 	)
 	(symbol
 		(lib_id "main_board_symbols_V1.0:LOGO")
-		(at 384.175 283.845 0)
+		(at 392.684 283.464 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom no)
@@ -72902,7 +72903,7 @@
 		(fields_autoplaced yes)
 		(uuid "b936b8b9-da38-455e-aff5-214998867e77")
 		(property "Reference" "#G1"
-			(at 384.175 276.9741 0)
+			(at 392.684 276.5931 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72911,7 +72912,7 @@
 			)
 		)
 		(property "Value" "TXST_Space_Lab_Logo"
-			(at 384.175 290.7159 0)
+			(at 392.684 290.3349 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72920,7 +72921,7 @@
 			)
 		)
 		(property "Footprint" "main_board_footprints_V1.0:SL_Logo"
-			(at 384.175 294.259 0)
+			(at 392.684 293.878 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72929,7 +72930,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 384.175 283.845 0)
+			(at 392.684 283.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72938,7 +72939,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 384.175 283.845 0)
+			(at 392.684 283.464 0)
 			(effects
 				(font
 					(size 1.27 1.27)
