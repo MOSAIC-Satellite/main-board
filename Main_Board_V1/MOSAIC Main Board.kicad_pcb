@@ -4817,7 +4817,6 @@
 		(path "/8ffb0814-990c-4d2d-a2a6-446245ed3c5c")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 -3) (xy -0.35 -3) (xy -0.35 -1.862451) (xy -0.865061 -1.712926) (xy -1.079186 -1.596493)
@@ -12730,7 +12729,6 @@
 		(path "/a3ece3e4-98a9-4d3b-9e63-d62938255c35")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -1.712926 0.865061) (xy -1.596493 1.079186) (xy -1.449512 1.275887) (xy -1.275887 1.449513)
@@ -21221,7 +21219,6 @@
 		(path "/87a7b01a-8987-4337-9d66-8852a93b4df6")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -1.712926 0.865061) (xy -1.596493 1.079186) (xy -1.449512 1.275887) (xy -1.275887 1.449513)
@@ -27718,7 +27715,7 @@
 		(path "/108f3370-ca87-4c44-988f-49ce783efd6d")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr smd exclude_from_bom)
+		(attr smd)
 		(fp_line
 			(start 2.1336 -5.8801)
 			(end 2.1336 5.8801)
@@ -30659,7 +30656,6 @@
 		(path "/70f945ec-1d52-42c3-9fd4-5a2dd8189c01")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 3) (xy -0.35 3) (xy -0.35 1.862451) (xy -0.865061 1.712926) (xy -1.079186 1.596493)
@@ -30799,7 +30795,6 @@
 		(path "/33240ae9-7167-4a77-a9e5-69c37525e258")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 3) (xy -0.35 3) (xy -0.35 1.862451) (xy -0.865061 1.712926) (xy -1.079186 1.596493)
@@ -32921,7 +32916,6 @@
 		(path "/6176091e-6708-444f-ba8e-44422b0af30f")
 		(sheetname "/")
 		(sheetfile "MOSAIC Main Board.kicad_sch")
-		(attr exclude_from_bom)
 		(fp_poly
 			(pts
 				(xy -0.399998 3) (xy -0.35 3) (xy -0.35 1.862451) (xy -0.865061 1.712926) (xy -1.079186 1.596493)
