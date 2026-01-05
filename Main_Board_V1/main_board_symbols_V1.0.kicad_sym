@@ -54285,8 +54285,8 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "main_board_footprints_V1.0:SWITCH_SPST_SMD_A"
-			(at 0 0 0)
+		(property "Footprint" "main_board_footprints_V1.0:SW-SMD_SSSS810701"
+			(at 0 -15.494 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54294,8 +54294,8 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8603117332785491968"
-			(at 0 0 0)
+		(property "Datasheet" "https://jlcpcb.com/api/file/downloadByFileSystemAccessId/8588917637593751552"
+			(at 0 -8.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54303,8 +54303,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "https://jlcpcb.com/partdetail/Sofng-MS1290N/C19188866"
-			(at 0 0 0)
+		(property "Description" "https://jlcpcb.com/partdetail/ALPSALPINE-SSSS810701/C97433"
+			(at 0.254 -12.192 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54312,8 +54312,8 @@
 				(hide yes)
 			)
 		)
-		(property "JLCPCB Part #" "C19188866"
-			(at 0 0 0)
+		(property "JLCPCB Part #" "C97433"
+			(at 0 -6.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
